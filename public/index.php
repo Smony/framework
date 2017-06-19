@@ -1,31 +1,36 @@
 <?php 
+	error_reporting(-1);
 
-	 $query = rtrim($_SERVER['QUERY_STRING'], '/'); //or REQUEST_URI
+	use vendor\core\Router;
+
+	 $url = rtrim($_SERVER['QUERY_STRING'], '/'); //or REQUEST_URI
 	 
-	 define('WWW', __DIR__); // site/public
-	 define('CORE', dirname(__DIR__) . '/vendor/core'); // site/vendor/core
-	 define('ROOT', dirname(__DIR__)); // site
-	 define('APP', dirname(__DIR__) .'/app'); // site/add
+	 define('WWW', __DIR__); 
+	 define('CORE', dirname(__DIR__) . '/vendor/core');
+	 define('ROOT', dirname(__DIR__));
+	 define('APP', dirname(__DIR__) .'/app'); 
 
-	require '../vendor/core/Router.php';
 	require '../vendor/libs/function.php';
+	
+	dd($_GET);
 	
 	//controllers
 	spl_autoload_register(function ($class) {
-		$controller = APP ."/controllers/$class.php";
-		if(is_file($controller))
+		$file = ROOT . '/' . str_replace('\\', '/', $class) . '.php';
+		if(is_file($file))
 		{
-			require_once $controller;
+			require_once $file;
 		}
 	});
-
-	//article/index = page-new/index
-	Router::add('^article/?(?P<action>[a-z-]+)?$', ['controller' => 'page-new', 'action' => 'index']);	
 	
-	//defaults routs
+	//add routs
+	Router::add('^articles/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Articles']);	
+	Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);	
+	
+	//defaults
 	Router::add('^$', ['controller' => 'main', 'action' => 'index']);	
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 		
 	dd(Router::getRoutes());
 	
-	Router::dispatch($query);
+	Router::dispatch($url);
