@@ -2,18 +2,30 @@
 
 namespace app\controllers;
 
-use vendor\core\base\Controller;
+class Main extends App {
 
-class Main extends Controller {
-	
+	// public $layout = 'main';
+
 	public function indexAction()
 	{
-		echo 'Main::index';
-	}
 
+	}
+	
 	public function testAction()
 	{
-		echo 'Main::test';
+		//$this->layout = false; //отключаем layout
+		 $this->layout = 'main';
+		 
+		 $name = 'Smony';
+		 $hi = 'Hello';
+		 $corols = [
+			'silver' => '#ccc',
+			'red' => 'red'
+		 ];
+		 
+		 // $this->set(['name' => $name, 'hi' => 'Hello']);
+		 $this->set(compact('name', 'hi', 'corols'));
+		
 	}
 
 }

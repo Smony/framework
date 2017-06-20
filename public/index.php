@@ -8,11 +8,10 @@
 	 define('WWW', __DIR__); 
 	 define('CORE', dirname(__DIR__) . '/vendor/core');
 	 define('ROOT', dirname(__DIR__));
-	 define('APP', dirname(__DIR__) .'/app'); 
+	 define('APP', dirname(__DIR__) .'/app');
+	 define('LAYOUT', 'default');
 
 	require '../vendor/libs/function.php';
-	
-	dd($_GET);
 	
 	//controllers
 	spl_autoload_register(function ($class) {
@@ -25,12 +24,10 @@
 	
 	//add routs
 	Router::add('^articles/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Articles']);	
-	Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);	
+	Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);
 	
 	//defaults
 	Router::add('^$', ['controller' => 'main', 'action' => 'index']);	
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
-		
-	dd(Router::getRoutes());
 	
 	Router::dispatch($url);

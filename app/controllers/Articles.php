@@ -2,14 +2,10 @@
 
 namespace app\controllers;
 
-use vendor\core\base\Controller;
-
-class Articles extends Controller {
+class Articles extends App {
 	
 	public function viewAction()
 	{
-		dd($this->route);
-		dd($_GET);
 
 		echo 'Articles::view';
 	}

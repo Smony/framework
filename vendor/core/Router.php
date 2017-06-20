@@ -59,12 +59,13 @@ class Router {
 			
 			if(class_exists($controller))
 			{
-				$cobj = new $controller(self::$route);
+				$cObj = new $controller(self::$route);
 				$action = self::lowerCamelCase(self::$route['action']) . 'Action';
 
-				if(method_exists($cobj, $action))
+				if(method_exists($cObj, $action))
 				{
-					$cobj ->$action();					
+					$cObj->$action();	
+					$cObj->getView();
 				}
 				else
 				{

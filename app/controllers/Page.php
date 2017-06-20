@@ -2,16 +2,12 @@
 
 namespace app\controllers;
 
-class Page {
+class Page extends App {
 
 	public function indexAction()
 	{
-		echo 'Page::index';
+
 	}
 
-	public function testAction()
-	{
-		echo 'Page::test';
-	}
 
 }
