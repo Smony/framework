@@ -2,18 +2,23 @@
 
 namespace app\controllers;
 
-class Main extends App {
+class MainController extends AppController {
 
 	// public $layout = 'main';
 
 	public function indexAction()
 	{
-
+		$seo = [
+			'title' => 'Главная',
+			'keywords' => 'ключевые слова',
+			'description' => 'краткое описание страницы'
+		];
+		$this->set(compact('seo'));
 	}
 	
 	public function testAction()
 	{
-		//$this->layout = false; //отключаем layout
+		// $this->layout = false; //отключаем layout
 		 $this->layout = 'main';
 		 
 		 $name = 'Smony';

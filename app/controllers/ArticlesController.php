@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-class Articles extends App {
+class ArticlesController extends AppController {
 	
 	public function viewAction()
 	{

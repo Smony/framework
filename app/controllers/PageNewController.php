@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-class PageNew {
+class PageNewController extends AppController {
 
 
 	public function indexAction()
