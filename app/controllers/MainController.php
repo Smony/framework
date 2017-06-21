@@ -13,8 +13,6 @@ class MainController extends AppController {
 		$model = new Main();
 		// $data = $model->query("CREATE TABLE posts2 SELECT * FROM posts");
 		$posts = $model->findAll();
-		$posts2 = $model->findAll();
-		$posts3 = $model->findAll();
 		// dd($posts);
 		$seo = [
 			'title' => 'Главная',
@@ -38,8 +36,19 @@ class MainController extends AppController {
 		 ];
 		 
 		 // $this->set(['name' => $name, 'hi' => 'Hello']);
-		 $this->set(compact('name', 'hi', 'corols'));
+		 $this->set(compact('name', 'hi', 'corols'));	
+	}
+	
+	public function testingAction()
+	{
+		// $this->view = '';
+		$seo = [
+			'title' => 'Главная',
+			'keywords' => 'ключевые слова',
+			'description' => 'краткое описание страницы'
+		];
 		
+		$this->set(compact('seo'));
 	}
 
 }

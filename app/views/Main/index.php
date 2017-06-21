@@ -19,7 +19,6 @@
 		<?php endforeach;?>
 		<?php endif;?>
 	
-		<code><?= __FILE__ ?></code>	
 		<br>
 		<code>Количество запросов: <?= dd(vendor\core\Db::$countSql); ?></code>	
 		<br>
