@@ -13,15 +13,14 @@ class MainController extends AppController {
 	public function indexAction()
 	{
 		$model = new Main();
-		$seo = [
-			'title' => 'Главная',
-			'keywords' => 'ключевые слова',
-			'description' => 'краткое описание страницы'
-		];
-		
+	
 		$posts = R::findAll($model->table);
-		$post = R::findOne($model->table, 'id = 2');
+		$post = R::findOne($model->table, 'id = 1');
+		$meta = R::findOne($model->table, 'id = 1');
 		
+		$this->setMeta($meta->title, $meta->keywords, $meta->description);
+		$seo = $this->meta;
+
 		$this->set(compact('seo', 'posts', 'post'));
 	}
 	
@@ -29,8 +28,7 @@ class MainController extends AppController {
 	{
 		// $this->layout = false; //отключаем layout
 		 $this->layout = 'main';
-		 
-		 
+		 	 
 	}
 
 }
