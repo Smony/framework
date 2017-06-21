@@ -13,11 +13,12 @@ class MainController extends AppController {
 		$model = new Main();
 		// $data = $model->query("CREATE TABLE posts2 SELECT * FROM posts");
 		$posts = $model->findAll();
-		$post = $model->findOne(5);// по умолчанию id
+		// $post = $model->findOne(5);// по умолчанию id
 		// $post = $model->findOne('Смысл сайта', 'title');
 		// $data = $model->findBySql("SELECT * FROM {$model->table} ORDER BY id DESC LIMIT 2");
-		$data = $model->findBySql("SELECT * FROM {$model->table} WHERE title LIKE 'ой'");
-		dd($data);
+		// $data = $model->findBySql("SELECT * FROM {$model->table} WHERE title LIKE ?", ['%!%']);
+		// $data = $model->findLike('дизайнеру', 'text');
+		// dd($data);
 		// dd($postString);
 		$seo = [
 			'title' => 'Главная',

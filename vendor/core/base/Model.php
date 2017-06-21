@@ -40,10 +40,11 @@ abstract class Model {
 		return $this->pdo->query($sql, $params);
 	}
 	
-	// public function OrderBy($sql, $params = [])
-	// {		
-		// $sql = "ORDER BY {$this->$params}";
-		// return $this->pdo->query($sql, $params);
-	// }
+	public function findLike($string, $field, $table = '')
+	{
+		$table = $table ?: $this->table;
+		$sql = "SELECT * FROM $table WHERE $field LIKE ?";
+		return $this->pdo->query($sql, ['%' .$string. '%']);
+	}
 
 }
