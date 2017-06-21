@@ -1,6 +1,9 @@
 <div class="container">
 	<div class="row">
 		<h1>Posts</h1>
+		<code>Количество запросов: <?= dd(vendor\core\Db::$countSql); ?></code>	
+		<br>
+		<code>Запрос: <?= dd(vendor\core\Db::$queryes); ?></code>
 	
 		<?php if(!empty($posts)):?>
 		<?php foreach($posts as $item):?>
@@ -19,10 +22,7 @@
 		<?php endforeach;?>
 		<?php endif;?>
 	
-		<br>
-		<code>Количество запросов: <?= dd(vendor\core\Db::$countSql); ?></code>	
-		<br>
-		<code>Запрос: <?= dd(vendor\core\Db::$queryes); ?></code>
+		
 
 
 	</div>
