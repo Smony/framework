@@ -15,13 +15,11 @@ abstract class Model {
 		$this->pdo = Db::instance();
 	}
 	
-	// для запросов
 	public function query($sql)
 	{
 		return $this->pdo->execute($sql);
 	}
 	
-	// выводим все даные таблицы
 	public function findAll()
 	{
 		$sql = "SELECT * FROM {$this->table}";
