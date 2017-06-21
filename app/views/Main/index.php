@@ -1,14 +1,11 @@
 <div class="container">
 	<div class="row">
-		<h1>Posts</h1>
-		<code>Количество запросов: <?= dd(vendor\core\Db::$countSql); ?></code>	
-		<br>
-		<code>Запрос: <?= dd(vendor\core\Db::$queryes); ?></code>
-	
+		<h1><?= $post['title']?></h1>
+		
 		<?php if(!empty($posts)):?>
 		<?php foreach($posts as $item):?>
 		<div class="panel panel-default">
-		  <div class="panel-heading"><?= $item['title']?></div>
+		  <div class="panel-heading"><a href="<?= $item['id']?>"><?= $item['title']?></a></div>
 		  <div class="panel-body">
 			<?= $item['text']?>
 		  </div>
@@ -21,9 +18,8 @@
 		 
 		<?php endforeach;?>
 		<?php endif;?>
-	
 		
-
-
+		
+	
 	</div>
 </div>

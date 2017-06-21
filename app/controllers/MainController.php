@@ -2,6 +2,8 @@
 
 namespace app\controllers;
 
+use R;
+
 use app\models\Main;
 
 class MainController extends AppController {
@@ -11,22 +13,16 @@ class MainController extends AppController {
 	public function indexAction()
 	{
 		$model = new Main();
-		// $data = $model->query("CREATE TABLE posts2 SELECT * FROM posts");
-		$posts = $model->findAll();
-		// $post = $model->findOne(5);// по умолчанию id
-		// $post = $model->findOne('Смысл сайта', 'title');
-		// $data = $model->findBySql("SELECT * FROM {$model->table} ORDER BY id DESC LIMIT 2");
-		// $data = $model->findBySql("SELECT * FROM {$model->table} WHERE title LIKE ?", ['%!%']);
-		// $data = $model->findLike('дизайнеру', 'text');
-		// dd($data);
-		// dd($postString);
 		$seo = [
 			'title' => 'Главная',
 			'keywords' => 'ключевые слова',
 			'description' => 'краткое описание страницы'
 		];
 		
-		$this->set(compact('seo', 'posts'));
+		$posts = R::findAll($model->table);
+		$post = R::findOne($model->table, 'id = 2');
+		
+		$this->set(compact('seo', 'posts', 'post'));
 	}
 	
 	public function testAction()

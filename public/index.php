@@ -9,6 +9,7 @@
 	 define('CORE', dirname(__DIR__) . '/vendor/core');
 	 define('ROOT', dirname(__DIR__));
 	 define('APP', dirname(__DIR__) .'/app');
+	 define('LIBS', dirname(__DIR__) .'/vendor/libs');
 	 define('LAYOUT', 'default');
 
 	require '../vendor/libs/function.php';

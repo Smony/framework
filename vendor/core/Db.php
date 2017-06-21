@@ -2,6 +2,8 @@
 
 namespace vendor\core;
 
+use R;
+
 class Db {
 
 	protected $pdo;
@@ -11,14 +13,20 @@ class Db {
 
 	protected function __construct() 
 	{
-		$db = require ROOT . '/config/config_db.php';
+		$db = require ROOT . '/config/config_db.php';		
+		require LIBS . '/rb.php'; 
 		
-		$options = [
+		R::setup($db['dsn'], $db['user'], $db['pass']);
+		
+		R::freeze( TRUE ); //не изменять размер колонок
+		$debug = R::fancyDebug( TRUE ); //включить отладчик on-true off-false
+				
+	/* 	$options = [
 			\PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION,
 			\PDO::ATTR_DEFAULT_FETCH_MODE => \PDO::FETCH_ASSOC,
 		];
 		
-		$this->pdo = new \PDO($db['dsn'], $db['user'], $db['pass'], $options);
+		$this->pdo = new \PDO($db['dsn'], $db['user'], $db['pass'], $options); */
 	}
 	
 	public static function instance()
@@ -29,7 +37,7 @@ class Db {
 		}
 		return self::$instance;
 	}
-	
+	/* 
 	//return false or true
 	public function execute($sql, $params = [])
 	{
@@ -50,5 +58,5 @@ class Db {
 			return $stmt->fetchAll();
 		}
 		return []; //empty
-	}
+	} */
 }	
