@@ -2,6 +2,7 @@
 	error_reporting(-1);
 
 	use vendor\core\Router;
+	use vendor\core\App;
 
 	 $url = rtrim($_SERVER['QUERY_STRING'], '/'); //or REQUEST_URI
 	 
@@ -22,6 +23,8 @@
 			require_once $file;
 		}
 	});
+	
+	new App();
 	
 	// add routs
 	// Router::add('^articles/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Articles']);	

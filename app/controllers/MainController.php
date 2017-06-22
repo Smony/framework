@@ -2,9 +2,9 @@
 
 namespace app\controllers;
 
-use R;
-
+use vendor\core\App;
 use app\models\Main;
+use R;
 
 class MainController extends AppController {
 
@@ -12,6 +12,9 @@ class MainController extends AppController {
 
 	public function indexAction()
 	{
+		
+		App::$app->getComponents();
+	
 		$model = new Main();
 	
 		$posts = R::findAll($model->table);
