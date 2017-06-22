@@ -14,6 +14,7 @@ class MainController extends AppController {
 	{		
 		// App::$app->getComponents(); 	//выводим все компоненты которые у нас подключены	
 		$model = new Main();
+		R::fancyDebug(TRUE);
 		
 		$posts = App::$app->cache->get('posts');
 		if(!$posts)
@@ -21,7 +22,7 @@ class MainController extends AppController {
 			$posts = R::findAll($model->table);
 			App::$app->cache->set('posts', $posts, 3600*24);  // default 1h
 		}
-		
+		// $posts = R::findAll($model->table);
 		// echo date('Y:m:d H:i:s', time());
 		// echo '<br>';
 		// echo date('Y:m:d H:i:s', 1498211326);
@@ -34,6 +35,12 @@ class MainController extends AppController {
 		$seo = $this->meta;
 
 		$this->set(compact('seo', 'posts', 'post'));
+	}
+	
+	public function testAction()
+	{
+		echo 111;
+		die();
 	}
 
 }

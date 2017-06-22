@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<h1><?= $post['title']?></h1>
-		
+			<button class="btn btn-default" id="send">Ajax Test</button>
 		<?php if(!empty($posts)):?>
 		<?php foreach($posts as $item):?>
 		<div class="panel panel-default">

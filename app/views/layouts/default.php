@@ -39,6 +39,22 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bootstrap/js/bootstrap.min.js"></script>
     <script src="/js/javascript.js"></script>
+	<script>
+		$('#send').click(function(){
+			$.ajax({
+				url: '/main/test',
+				type: 'post',
+				data: 'id = 2',
+				success: function(res){
+					console.log(res);
+				},
+				error: function(){
+					alert('Error!!');
+				}
+			});
+
+		});	
+	</script>
   </body>
 </html>
 
