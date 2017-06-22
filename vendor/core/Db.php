@@ -19,7 +19,7 @@ class Db {
 		R::setup($db['dsn'], $db['user'], $db['pass']);
 		
 		R::freeze( TRUE ); //не изменять размер колонок
-		$debug = R::fancyDebug( TRUE ); //включить отладчик on-true off-false
+		R::fancyDebug( FALSE ); //включить отладчик on-true off-false
 				
 	/* 	$options = [
 			\PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION,

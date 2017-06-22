@@ -15,8 +15,8 @@ class MainController extends AppController {
 		$model = new Main();
 	
 		$posts = R::findAll($model->table);
-		$post = R::findOne($model->table, 'id = 1');
-		$meta = R::findOne($model->table, 'id = 1');
+		$post = R::findOne($model->table, 'id = 5');
+		$meta = R::findOne($model->table, 'id = 2');
 		
 		$this->setMeta($meta->title, $meta->keywords, $meta->description);
 		$seo = $this->meta;
