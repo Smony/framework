@@ -12,10 +12,10 @@ class MainController extends AppController {
 
 	public function indexAction()
 	{		
-		App::$app->getComponents(); 		
+		// App::$app->getComponents(); 	//выводим все компоненты которые у нас подключены	
 		$model = new Main();
 		
-		R::fancyDebug(TRUE);
+		// R::fancyDebug(TRUE);
 		
 		$posts = App::$app->cache->get('posts');
 		if(!$posts)
@@ -24,10 +24,11 @@ class MainController extends AppController {
 			App::$app->cache->set('posts', $posts, 3600*24);  // default 1h
 		}
 		
-		echo date('Y:m:d H:i:s', time());
-		echo '<br>';
-		echo date('Y:m:d H:i:s', 1498211326);
-		echo '<br>';
+		// echo date('Y:m:d H:i:s', time());
+		// echo '<br>';
+		// echo date('Y:m:d H:i:s', 1498211326);
+		// echo '<br>';
+		
 		$post = R::findOne($model->table, 'id = 5');
 		$meta = R::findOne($model->table, 'id = 2');
 		
