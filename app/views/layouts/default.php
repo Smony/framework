@@ -16,6 +16,23 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+	<script type='text/javascript'>
+	//<![CDATA[
+		var startTime = new Date();
+		function showElapsedTime() {
+		var testSiteUrl = location.href;;
+		var testSiteString = String(testSiteUrl).slice(testSiteUrl.indexOf("www"));
+		var endTime = new Date();
+		var elapsedTime = Number(endTime-startTime);
+		var browser=navigator.userAgent;
+		var platform=navigator.platform;
+		// var msgString = "Время загрузки " + Number(elapsedTime/1000) + " секунд (" + elapsedTime + " ms)<br/><span>Браузер " + browser + "</span>";
+		var msgString = "Время загрузки " + Number(elapsedTime/1000) + "</span>";
+		document.getElementById("vremia").innerHTML = msgString;
+		}
+		onload=function() {showElapsedTime();}
+		//]]>
+	</script>
   </head>
   <body>
   
@@ -27,6 +44,7 @@
 		  <div class="jumbotron">
 			<h1>Default Template</h1>
 			<p class="lead">This is a default template.</p>
+			<code><div id="vremia">Загрузка ...</div></code>
 		  </div>
 
 		<?= $content; ?>
