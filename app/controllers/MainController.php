@@ -15,8 +15,6 @@ class MainController extends AppController {
 		// App::$app->getComponents(); 	//выводим все компоненты которые у нас подключены	
 		$model = new Main();
 		
-		// R::fancyDebug(TRUE);
-		
 		$posts = App::$app->cache->get('posts');
 		if(!$posts)
 		{
@@ -36,13 +34,6 @@ class MainController extends AppController {
 		$seo = $this->meta;
 
 		$this->set(compact('seo', 'posts', 'post'));
-	}
-	
-	public function testAction()
-	{
-		// $this->layout = false; //отключаем layout
-		 $this->layout = 'main';
-		 	 
 	}
 
 }

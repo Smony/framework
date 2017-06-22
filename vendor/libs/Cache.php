@@ -3,10 +3,6 @@ namespace vendor\libs;
 
 class Cache {
 
-	// public static $key;
-	// public static $data = [];
-	// public static $second = 3600;
-
 	public function __construct()
 	{
 		
