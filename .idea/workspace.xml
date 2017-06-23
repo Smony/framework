@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9186d08d-de89-4676-928a-56f9769cdd99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/MainController.php" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Main/test.php" afterPath="$PROJECT_DIR$/app/views/Main/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/core/Db.php" afterPath="$PROJECT_DIR$/vendor/core/Db.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/core/Registry.php" afterPath="$PROJECT_DIR$/vendor/core/Registry.php" />
     </list>
     <ignored path="framework.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,31 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Db.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/core/Db.php">
+      <file leaf-file-name="MainController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/MainController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6666667">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Registry.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vendor/core/Registry.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12623763">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TSingletone.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/core/TSingletone.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.81064355">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -69,6 +46,7 @@
         <option value="$PROJECT_DIR$/app/views/Main/test.php" />
         <option value="$PROJECT_DIR$/vendor/core/Db.php" />
         <option value="$PROJECT_DIR$/vendor/core/Registry.php" />
+        <option value="$PROJECT_DIR$/app/controllers/MainController.php" />
       </list>
     </option>
   </component>
@@ -371,26 +349,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/core/TSingletone.php">
+    <entry file="file://$PROJECT_DIR$/vendor/core/Registry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5680693">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/core/Db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
+        <state vertical-scroll-proportion="0.16831683">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/core/Registry.php">
+    <entry file="file://$PROJECT_DIR$/vendor/core/TSingletone.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12623763">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.3469388">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/MainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81064355">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
           <folding />
         </state>
       </provider>
