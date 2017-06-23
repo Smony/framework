@@ -6,8 +6,10 @@ use R;
 
 class Db {
 
+	use TSingletone;
+
 	protected $pdo;
-	protected  static $instance;
+//	protected  static $instance;
 	public static $countSql = 0; 
 	public static $queryes = []; 
 
@@ -29,14 +31,14 @@ class Db {
 		$this->pdo = new \PDO($db['dsn'], $db['user'], $db['pass'], $options); */
 	}
 	
-	public static function instance()
+/*	public static function instance()
 	{
 		if(self::$instance === null)
 		{
 			self::$instance = new self;
 		}
 		return self::$instance;
-	}
+	}*/
 	/* 
 	//return false or true
 	public function execute($sql, $params = [])

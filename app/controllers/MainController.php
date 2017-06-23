@@ -32,10 +32,13 @@ class MainController extends AppController {
 		$post = R::findOne($model->table, 'id = 5');
 		$meta = R::findOne($model->table, 'id = 2');
 		
+		// $this->setMeta($meta->title, $meta->keywords, $meta->description);
+		// $seo = $this->meta;
+		
 		View::setMeta('title', 'keywords test', 'description test');
 
 		$this->set(compact('posts', 'post'));
-		// $this->loadView('index', compact(posts', 'post'));
+		// $this->loadView('index', compact('seo', 'posts', 'post'));
 	}
 	
 	public function testAction()
