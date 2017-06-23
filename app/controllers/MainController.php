@@ -4,6 +4,7 @@ namespace app\controllers;
 
 use vendor\core\App;
 use app\models\Main;
+use app\models\Test;
 use R;
 
 class MainController extends AppController {
@@ -35,12 +36,18 @@ class MainController extends AppController {
 		$seo = $this->meta;
 
 		$this->set(compact('seo', 'posts', 'post'));
+		// $this->loadView('index', compact('seo', 'posts', 'post'));
 	}
 	
 	public function testAction()
 	{
-		echo 111;
-		die();
+		if($this->isAjax()){
+			$model = new Main();
+			$post = R::findOne($model->table, "id = 6");
+			$this->loadView('test', compact('post'));
+			die();
+		}
+		echo 222;
 	}
 
 }
