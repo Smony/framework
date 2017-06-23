@@ -2,9 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>main</title>
-	<meta name="keywords" content="" />
-	<meta name="description" content=""/>
+	<?php vendor\core\base\View::getMeta();?>
 	<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>

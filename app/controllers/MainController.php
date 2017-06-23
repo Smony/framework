@@ -3,8 +3,8 @@
 namespace app\controllers;
 
 use vendor\core\App;
+use vendor\core\base\View;
 use app\models\Main;
-use app\models\Test;
 use R;
 
 class MainController extends AppController {
@@ -32,11 +32,10 @@ class MainController extends AppController {
 		$post = R::findOne($model->table, 'id = 5');
 		$meta = R::findOne($model->table, 'id = 2');
 		
-		$this->setMeta($meta->title, $meta->keywords, $meta->description);
-		$seo = $this->meta;
+		View::setMeta('title', 'keywords test', 'description test');
 
-		$this->set(compact('seo', 'posts', 'post'));
-		// $this->loadView('index', compact('seo', 'posts', 'post'));
+		$this->set(compact('posts', 'post'));
+		// $this->loadView('index', compact(posts', 'post'));
 	}
 	
 	public function testAction()

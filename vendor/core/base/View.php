@@ -13,6 +13,12 @@ class View {
 	//layout template
 	public $layout;
 	
+	public static $meta = [
+		'title' => '', 
+		'keywords' => '',
+		'description'=> ''
+	];
+	
 	public function __construct($route, $layout = '', $view = '')
 	{
 		$this->route = $route;
@@ -63,10 +69,22 @@ class View {
 			{
 				echo "<p>Не найден layout <b>{$file_layout}</b></p>";
 			}
-		}
-		
+		}		
 		
 	}
-
+	
+	public static function getMeta()
+	{
+		echo '<title>' . self::$meta['title'] . '</title>
+		<meta name="keywords" content="' . self::$meta['keywords'] . '"/>
+		<meta name="description" content="' . self::$meta['description'] . '"/>';
+	}
+	
+	public static function setMeta($title = '', $keywords = '', $description = '')
+	{
+		self::$meta['title'] = $title;
+		self::$meta['keywords'] = $keywords;
+		self::$meta['description'] = $description;
+	}
 
 }
