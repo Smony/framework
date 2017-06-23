@@ -18,7 +18,7 @@ class ErrorHandler {
 
     public function __construct()
     {
-        if(DEBUG == true)
+        if(DEBUG)
         {
             error_reporting(-1);
         }
@@ -75,7 +75,7 @@ class ErrorHandler {
         error_log("[" . date('Y:m:d H:i:s', time())  ." ] Текст ошибки: " . $e->getMessage() . " | Файл: " . $e->getFile() . " | Строка: " . $e->getLine() . "\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀\n", 3, __DIR__ . "/errors.log");
         $this->displayError('Исключение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
     }
-    
+
 
 }
 
