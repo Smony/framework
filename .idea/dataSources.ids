@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - fw@localhost" uuid="5cdb927b-5651-4ee8-8554-03229ea191b1">
+    <database-info product="MySQL" version="5.5.5-10.1.9-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.4">
+      <schema id="1" name="fw"/>
+      <table id="2" parent="1" name="category"/>
+      <table id="3" parent="1" name="city"/>
+      <table id="4" parent="1" name="posts"/>
+      <table id="5" parent="1" name="test"/>
+      <column id="6" parent="2" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11) unsigned</data-type>
+      </column>
+      <column id="7" parent="2" name="title">
+        <data-type>varchar(191)</data-type>
+      </column>
+      <column id="8" parent="2" name="text">
+        <data-type>varchar(191)</data-type>
+      </column>
+      <key id="9" parent="2" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="10" parent="3" name="ID">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="11" parent="3" name="Name">
+        <mandatory>1</mandatory>
+        <data-type>char(35)</data-type>
+        <default-expression>&apos;&apos;</default-expression>
+      </column>
+      <column id="12" parent="3" name="CountryCode">
+        <mandatory>1</mandatory>
+        <data-type>char(3)</data-type>
+        <default-expression>&apos;&apos;</default-expression>
+      </column>
+      <column id="13" parent="3" name="District">
+        <mandatory>1</mandatory>
+        <data-type>char(20)</data-type>
+        <default-expression>&apos;&apos;</default-expression>
+      </column>
+      <column id="14" parent="3" name="Population">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+        <default-expression>&apos;0&apos;</default-expression>
+      </column>
+      <index id="15" parent="3" name="CountryCode">
+        <columns>CountryCode</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <key id="16" parent="3" name="PRIMARY">
+        <columns>ID</columns>
+        <primary>1</primary>
+      </key>
+      <column id="17" parent="4" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="18" parent="4" name="title">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <column id="19" parent="4" name="text">
+        <mandatory>1</mandatory>
+        <data-type>text</data-type>
+      </column>
+      <column id="20" parent="4" name="date">
+        <mandatory>1</mandatory>
+        <data-type>date</data-type>
+      </column>
+      <column id="21" parent="4" name="keywords">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <column id="22" parent="4" name="description">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <key id="23" parent="4" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="24" parent="5" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="25" parent="5" name="name">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <column id="26" parent="5" name="title">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <column id="27" parent="5" name="keywords">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <column id="28" parent="5" name="description">
+        <mandatory>1</mandatory>
+        <data-type>varchar(255)</data-type>
+      </column>
+      <key id="29" parent="5" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>
