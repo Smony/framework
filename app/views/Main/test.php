@@ -1,2 +1,2 @@
-<h1><?= $post['title'] ?></h1>
-<h1><?= $post['text'] ?></h1>
+<p><?= $post['title'] ?></p>
+<p><?= $post['text'] ?></p>

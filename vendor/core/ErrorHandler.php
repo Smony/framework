@@ -26,6 +26,10 @@ class ErrorHandler
     {
         $this->logErrors($errstr, $errfile, $errline);
         $this->displayError($errno, $errstr, $errfile, $errline);
+/*        if(DEBUG)
+        {
+            $this->displayError($errno, $errstr, $errfile, $errline);
+        }*/
         return true;
     }
 

@@ -26,3 +26,75 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:26 10:01:10 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 1
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:10:13 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:10:28 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:10:40 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:10:46 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:00 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:05 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:28 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:28 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:28 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:30 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:30 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:30 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:36 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:36 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:59 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:11:59 ] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 11:48:54 ] Текст ошибки: Identifier does not conform to RedBeanPHP security policies. | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 5001
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:02:25 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:02:48 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public\public\views\menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:03:22 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:03:37 ] Текст ошибки: Undefined variable: tpl | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:03:43 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:04:12 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 77
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:04:18 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 76
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:08:03 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 83
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 12:10:33 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc\public/public/views/menu.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 83
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:22:00 ] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 65
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:25:55 ] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 65
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:44:48 ] Текст ошибки: Class 'vendor\widgets\menu\App' not found | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:44:48 ] Текст ошибки: Class 'vendor\widgets\menu\App' not found | Файл: C:\xampp\htdocs\framework.loc\vendor\widgets\menu\Menu.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:53:11 ] Текст ошибки: Class 'Menu' not found | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 19
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:53:11 ] Текст ошибки: Class 'Menu' not found | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 19
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:54:57 ] Текст ошибки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 27
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:55:02 ] Текст ошибки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 27
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:55:25 ] Текст ошибки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 27
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 13:55:44 ] Текст ошибки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
