@@ -1,12 +1,12 @@
 <?php 
-	error_reporting(-1);
 
 	use vendor\core\Router;
 	use vendor\core\App;
 
-	 $url = rtrim($_SERVER['QUERY_STRING'], '/'); //or REQUEST_URI
-	 
-	 define('WWW', __DIR__); 
+	 $url = rtrim($_SERVER['QUERY_STRING'], '/');
+
+	 define('DEBUG', 1);
+	 define('WWW', __DIR__);
 	 define('CORE', dirname(__DIR__) . '/vendor/core');
 	 define('ROOT', dirname(__DIR__));
 	 define('APP', dirname(__DIR__) .'/app');

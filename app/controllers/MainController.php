@@ -15,8 +15,8 @@ class MainController extends AppController {
 	{		
 		// App::$app->getComponents(); 	//выводим все компоненты которые у нас подключены	
 		$model = new Main();
-		//R::fancyDebug(TRUE);
-		
+//		R::fancyDebug(TRUE);
+
 		$posts = App::$app->cache->get('posts');
 		if(!$posts)
 		{

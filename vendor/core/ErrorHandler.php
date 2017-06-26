@@ -5,7 +5,6 @@ namespace vendor\core;
 
 class ErrorHandler
 {
-
     public function __construct()
     {
         if(DEBUG)
@@ -25,31 +24,17 @@ class ErrorHandler
 
     public function errorHandler($errno, $errstr, $errfile, $errline)
     {
-        error_log("[" . date('Y:m:d H:i:s', time())  ." ] Текст ошибки: " . $errstr . " | Файл: " . $errfile . " | Строка: " . $errline . "\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀\n", 3, __DIR__ . "/errors.log");
+        $this->logErrors($errstr, $errfile, $errline);
         $this->displayError($errno, $errstr, $errfile, $errline);
         return true;
-    }
-
-    protected function displayError($errno, $errstr, $errfile, $errline, $response = 500)
-    {
-        http_response_code($response);
-        if(DEBUG == true)
-        {
-            require 'views/developer.php';
-        }
-        else
-        {
-            require 'views/prodaction.php';
-        }
-        die();
     }
 
     public function fatalErrorHandler()
     {
         $error = error_get_last();
-        error_log("[" . date('Y:m:d H:i:s', time())  ." ] Текст ошибки: " . $error['message'] . " | Файл: " . $error['file'] . " | Строка: " . $error['line'] . "\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀\n", 3, __DIR__ . "/errors.log");
         if (!empty($error) && $error['type'] & ( E_ERROR | E_PARSE | E_COMPILE_ERROR | E_CORE_ERROR))
         {
+            $this->logErrors($error['message'], $error['file'], $error['line']);
             ob_end_clean();
             $this->errorHandler($error['type'], $error['message'], $error['file'], $error['line']);
 
@@ -60,10 +45,36 @@ class ErrorHandler
         }
     }
 
+    protected function displayError($errno, $errstr, $errfile, $errline, $response = 500)
+    {
+        http_response_code($response);
+        if($response == 404)
+        {
+            require WWW. '/errors/404.php';
+            die();
+        }
+        if(DEBUG)
+        {
+            require WWW. '/errors/developer.php';
+        }
+        else
+        {
+            require WWW. '/errors/prodaction.php';
+        }
+        die();
+    }
+
+
     public function exceptionHandler($e)
     {
-        error_log("[" . date('Y:m:d H:i:s', time())  ." ] Текст ошибки: " . $e->getMessage() . " | Файл: " . $e->getFile() . " | Строка: " . $e->getLine() . "\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀\n", 3, __DIR__ . "/errors.log");
+        $this->logErrors($e->getMessage(), $e->getFile(), $e->getLine());
         $this->displayError('Исключение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
     }
+
+    protected function logErrors($message = '', $file = '', $line = '')
+    {
+        error_log("[" . date('Y:m:d H:i:s', time())  ." ] Текст ошибки: " . $message . " | Файл: " . $file . " | Строка: " . $line . "\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀\n", 3, ROOT . "/temp/errors.log");
+    }
+
 
 }
