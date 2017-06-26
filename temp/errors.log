@@ -98,3 +98,95 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:26 13:55:44 ] Текст ошибки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\index.php | Строка: 26
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:02:46 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 16
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:03:38 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:04:37 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:05:32 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:05:39 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:05:40 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:05:41 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:05:42 ] Текст ошибки: Illegal string offset 'ID' | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:07:14 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 15
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:07:14 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 15
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:10:45 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 16
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:12:00 ] Текст ошибки: Undefined index: route | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:12:39 ] Текст ошибки: Undefined index: routes | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:12:57 ] Текст ошибки: Undefined index: routes | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:13:19 ] Текст ошибки: Undefined index: routes | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:13:25 ] Текст ошибки: Undefined index: getRoute | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:38:36 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:39:01 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:42:28 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:43:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:44:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:44:16 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:44:45 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:45:15 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:45:19 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:45:25 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:46:05 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:47:19 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:47:23 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:47:29 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:47:45 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:48:46 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:48:59 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:49:07 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:53:50 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:53:56 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:53:59 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:54:36 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '} LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:59:22 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 16:59:25 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:01:36 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '} LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:01:44 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:02:04 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:02:35 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '} LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:03:26 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 17:03:36 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀

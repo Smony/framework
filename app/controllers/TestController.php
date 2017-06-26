@@ -2,22 +2,33 @@
 
 namespace app\controllers;
 
+use app\models\Main;
 use R;
-use app\models\Test;
-use app\models\City;
+use vendor\core\App;
+use vendor\core\base\View;
 
 class TestController extends AppController {
 
 	public function indexAction()
 	{
-		$this->layout = 'main';
-		$model = new Test();		
+		$model = new Main();
 		R::fancyDebug(TRUE);
 		
-		$data = R::findAll($model->table);		
-		// $this->setMeta($test->title, $test->keywords, $test->descripton);
-		// $seo = $this->meta;
-		$this->set(compact('data'));
+		$posts = R::findAll($model->table);
+
+		$this->set(compact('posts'));
+	}
+
+	public function postAction($id)
+	{
+		$model = new Main();
+		R::fancyDebug(TRUE);
+
+		$post = R::findOne($model->table, "id = {$id}");
+
+		dd($post);
+
+		$this->set(compact('post'));
 	}
 
 }

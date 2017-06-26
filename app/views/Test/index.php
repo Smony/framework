@@ -1,6 +1,22 @@
+<div class="container">
+	<div class="row">
 
-<?php if(!empty($data)): ?>
-	<?php foreach($data as $item): ?>
-	<h1><?= $item['ID']?></h1>
-	<?php endforeach; ?>
-<?php endif; ?>
+		<?php if(!empty($posts)): ?>
+			<?php foreach($posts as $post): ?>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<a href="test/post?id=<?=$post['id']?>"><h3 class="panel-title"><?=$post['title']?></h3></a>
+			</div>
+			<div class="panel-body">
+				<?=$post['text']?>
+
+			</div>
+			<div class="panel-footer">
+
+			</div>
+		</div>
+		<?php endforeach;?>
+		<?php endif;?>
+
+	</div>
+</div>

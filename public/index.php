@@ -28,11 +28,12 @@
 	new App();
 	
 	// add routs
-	// Router::add('^articles/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Articles']);	
-	// Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);//add routs
-	
+	 Router::add('^test/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Test']);
+	 Router::add('^test/(?P<alias>[a-z-]+)$', ['controller' => 'Test', 'action' => 'post']);//add routs
+	Router::add('^test/(?P<alias>[a-z-]+)$', ['controller' => 'Test', 'action' => 'post']);//add routs
+
 	//defaults routes
-	Router::add('^$', ['controller' => 'main', 'action' => 'index']);	
+	Router::add('^$', ['controller' => 'test', 'action' => 'index']);
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 	
 	Router::dispatch($url);
