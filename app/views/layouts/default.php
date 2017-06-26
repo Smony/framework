@@ -44,7 +44,7 @@
 				type: 'post',
 				data: 'id = 2',
 				success: function(res){
-					console.log(res);
+					$('#ajaxme').html(res);
 				},
 				error: function(){
 					alert('Error!!');

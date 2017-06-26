@@ -1,0 +1,28 @@
+[2017:06:26 09:25:50 ] Текст ошибки: Illegal offset type | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 52
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:27:06 ] Текст ошибки: Illegal offset type | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 52
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:29:16 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:29:47 ] Текст ошибки: Illegal offset type | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 52
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:32:02 ] Текст ошибки: Illegal offset type | Файл: C:\xampp\htdocs\framework.loc\app\controllers\MainController.php | Строка: 52
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:44:37 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 1
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:44:45 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:45:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:47:04 ] Текст ошибки: require(C:\xampp\htdocs\framework.loc/app/views/Main/test.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\Controller.php | Строка: 44
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:47:27 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 09:47:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:00:44 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 1
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:00:59 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 1
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:26 10:01:10 ] Текст ошибки: Undefined variable: post | Файл: C:\xampp\htdocs\framework.loc\app\views\Main\test.php | Строка: 1
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀

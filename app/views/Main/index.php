@@ -1,5 +1,8 @@
 <div class="container">
 	<div class="row">
+
+		<div id="ajaxme"></div>
+
 		<h1><?= $post['title']?></h1>
 			<button class="btn btn-default" id="send">Ajax Test</button>
 		<?php if(!empty($posts)):?>

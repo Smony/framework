@@ -31,7 +31,7 @@
 	// Router::add('^articles/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Articles']);	
 	// Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);//add routs
 	
-	//defaults
+	//defaults routes
 	Router::add('^$', ['controller' => 'main', 'action' => 'index']);	
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 	
