@@ -10,7 +10,14 @@
 	</style>
 </head>
 <body>
-	<h1>Error 404</h1>
-	<p>Not Found</p>
+<div class="container">
+	<div class="row">
+		<section style="text-align: center;">
+		<img src="images/404.png" alt="error 404">
+			<h1>404 Error !</h1>
+			<p>The Page You Requested Could Not Be Found On Our Server</p>
+		</section>
+	</div>
+</div>
 </body>
 </html>

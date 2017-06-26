@@ -5,7 +5,7 @@
 
 	 $url = rtrim($_SERVER['QUERY_STRING'], '/');
 
-	 define('DEBUG', 1);
+	 define('DEBUG', 0);
 	 define('WWW', __DIR__);
 	 define('CORE', dirname(__DIR__) . '/vendor/core');
 	 define('ROOT', dirname(__DIR__));
@@ -32,7 +32,7 @@
 	// Router::add('^articles/(?P<alias>[a-z-]+)$', ['controller' => 'Articles', 'action' => 'view']);//add routs
 	
 	//defaults routes
-	Router::add('^$', ['controller' => 'main', 'action' => 'index']);	
+	Router::add('^$', ['controller' => 'welcome', 'action' => 'index']);
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 	
 	Router::dispatch($url);
