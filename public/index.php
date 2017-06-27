@@ -26,14 +26,17 @@
 	});
 	
 	new App();
-	
-	// add routs
-	 Router::add('^test/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller' => 'Test']);
-	 Router::add('^test/(?P<alias>[a-z-]+)$', ['controller' => 'Test', 'action' => 'post']);//add routs
-	Router::add('^test/(?P<alias>[a-z-]+)$', ['controller' => 'Test', 'action' => 'post']);//add routs
 
-	//defaults routes
-	Router::add('^$', ['controller' => 'test', 'action' => 'index']);
+//	Router::add('^test/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$',['controller'=>'Test']);
+//	Router::add('^test/(?P<alias>[a-z-]+)$',['controller'=>'Test', 'action' => 'post']);
+	Router::add('^test/post/(?P<post>[a-z-]+)', ['controller' => 'Test', 'action' => 'post']);
+
+	//DEFAULTS ROUTES
+	//admin
+	Router::add('^admin$',['controller'=>'User', 'action'=>'index', 'prefix' => 'admin']);
+	Router::add('^admin/?(?<controller>[a-z-]+)/?(?<action>[a-z-]+)?$', ['prefix' => 'admin']);
+	//site
+	Router::add('^$', ['controller' => 'Test', 'action' => 'index']);
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 	
 	Router::dispatch($url);

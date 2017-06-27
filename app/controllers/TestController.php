@@ -12,21 +12,31 @@ class TestController extends AppController {
 	public function indexAction()
 	{
 		$model = new Main();
-		R::fancyDebug(TRUE);
+//		R::fancyDebug(TRUE);
 		
 		$posts = R::findAll($model->table);
 
 		$this->set(compact('posts'));
 	}
 
-	public function postAction($id)
+	public function postAction($param = '')
 	{
+		$this->param = intval($_GET['id']);
+
+		formatstr($this->param);
+
 		$model = new Main();
-		R::fancyDebug(TRUE);
+//		R::fancyDebug(TRUE);
+		$post = R::findOne($model->table, "id = {$this->param}");
 
-		$post = R::findOne($model->table, "id = {$id}");
+		dd($this->route['action']);
 
-		dd($post);
+		if(!$post['id'])
+		{
+			throw new \Exception("Страница не найдена.", 404);
+		}
+
+		View::setMeta($post->title, $post->keywords, $post->description);
 
 		$this->set(compact('post'));
 	}

@@ -190,3 +190,625 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:26 17:03:36 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:02:30 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:06:03 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:06:07 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:06:36 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:06:51 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:11:31 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:11:37 ] Текст ошибки: Метод <b>app\controllers\TestController::testAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 73
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:11:42 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:12:08 ] Текст ошибки: Call to undefined function app\controllers\xd() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:12:08 ] Текст ошибки: Call to undefined function app\controllers\xd() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:12:10 ] Текст ошибки: Call to undefined function app\controllers\xd() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:12:10 ] Текст ошибки: Call to undefined function app\controllers\xd() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:50:11 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:50:16 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:50:29 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:51:44 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:55:58 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:56:03 ] Текст ошибки: Missing argument 1 for app\controllers\TestController::postAction(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 67 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 22
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 08:56:37 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '6павпв' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:01:32 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dsfsdf' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:01:44 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:01:47 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:01:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:01:53 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:02:02 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dsfsdf' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:05:11 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dsfsdf' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:07:38 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:12:42 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '5sdf' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:15:04 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:16:12 ] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:22:11 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:23:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:23:43 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:26:54 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:27:01 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:27:12 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:30:01 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:31:05 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:31:07 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:31:39 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:33:47 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:33:57 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:34:03 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:34:06 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:34:10 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:34:18 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:31 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:31 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:41 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:41 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:45 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:45 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:51 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:40:51 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:07 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:07 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:10 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:10 ] Текст ошибки: Using $this when not in object context | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:21 ] Текст ошибки: Call to undefined function getRoute() | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:41:21 ] Текст ошибки: Call to undefined function getRoute() | Файл: C:\xampp\htdocs\framework.loc\public\index.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:59:11 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:59:25 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 09:59:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:01:58 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:03:01 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:03:04 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:04:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:04:36 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:04:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:04:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:05:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:07:13 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:07:18 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:07:19 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:08:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:08:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 33
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:17:51 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:17:56 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:19:59 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 37
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:05 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:08 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:08 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:09 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:13 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:20 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:28 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:35 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:20:53 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:15 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:26 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:31 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:33 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:37 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:43 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:52 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:54 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:21:59 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:22:02 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:22:28 ] Текст ошибки: Class 'app\controllers\Exception' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:22:28 ] Текст ошибки: Class 'app\controllers\Exception' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:22:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:29:20 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:30:32 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:30:57 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:37:09 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:37:10 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:37:11 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:37:11 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:37:27 ] Текст ошибки: Контролер <b>app\controllers\AdminController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:38:12 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:40:08 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:40:12 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:42:18 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:42:26 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:42:30 ] Текст ошибки: Контролер <b>app\controllers\ResreController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:43:30 ] Текст ошибки: Контролер <b>app\controllers\SdfsdfController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:44:37 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:44:48 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:44:53 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:45:00 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:45:04 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:46:12 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:46:27 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:46:38 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 79
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:48:47 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:23 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:31 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:41 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:46 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:52 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:56 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:49:59 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:51:57 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:52:10 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:52:24 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:52:28 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:52:32 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:53:12 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:53:21 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:53:26 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:53:32 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:53:37 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:55:15 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 10:55:56 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:00:17 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 80
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:00:59 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:01:53 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:01:57 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:01:58 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:01:59 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:00 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:00 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:01 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:02 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:03 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:04 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:05 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:09 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 88
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:02:42 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:03:10 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:03:12 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:03:33 ] Текст ошибки: Undefined property: app\controllers\TestController::$param | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:03:36 ] Текст ошибки: Undefined property: app\controllers\TestController::$param | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:04:22 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:04:30 ] Текст ошибки: Контролер <b>app\controllers\MamaController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:04:36 ] Текст ошибки: Контролер <b>app\controllers\MamaController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:05:40 ] Текст ошибки: Контролер <b>app\controllers\MamaController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:08:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 88
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:08:54 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 88
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:08:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 88
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:03 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 88
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:12 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:22 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:24 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:09:27 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 86
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:10:35 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:10:39 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:10:43 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:10:47 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:11:29 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:11:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:12:34 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:12:44 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:12:47 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:12:53 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:13:38 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 34
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:18:55 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:21:38 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 96
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:21:53 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:22:05 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:22:14 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:22:32 ] Текст ошибки: Контролер <b>app\controllers\UseController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:22:36 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:22:42 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:24:11 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:24:13 ] Текст ошибки: Контролер <b>app\controllers\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 89
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:25:39 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:26:12 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:26:47 ] Текст ошибки: Контролер <b>app\controllers\admin\TestController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:26:57 ] Текст ошибки: Контролер <b>app\controllers\admin\TestController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:27:08 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:27:48 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:28:51 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:29:03 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:29:14 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:29:21 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:29:45 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:30:20 ] Текст ошибки: Контролер <b>app\controllers\admin\UserController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:34:59 ] Текст ошибки: Метод <b>app\controllers\admin\UserController::indexAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:40:09 ] Текст ошибки: Метод <b>app\controllers\admin\UserController::indexAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:49 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:44:50 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:45:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:28 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:28 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:28 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:49:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:50:17 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:50:17 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:48 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:51:48 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:52:59 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:52:59 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:52:59 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:52:59 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:53:00 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:53:00 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:53:19 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:53:26 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:54:38 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:54:42 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:58:14 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:58:28 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:59:12 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:59:32 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 11:59:56 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 12:00:15 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 12:03:28 ] Текст ошибки: Метод <b>app\controllers\admin\UserController::indexeAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 12:03:45 ] Текст ошибки: Метод <b>app\controllers\admin\TestController::testewAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 12:03:48 ] Текст ошибки: Контролер <b>app\controllers\admin\TestwerqwController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:16:20 ] Текст ошибки: Контролер <b>app\controllers\admin\SdfsdController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:19:06 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:19:29 ] Текст ошибки: Метод <b>app\controllers\admin\TestController::sdfAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:25:49 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\Test/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:25:53 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\Test/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:25:55 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\Test/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:25:57 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\Test/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:26:02 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\Test/test.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:26:09 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\User/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:26:16 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\User/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:26:55 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\User/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:30:09 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\User/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:30:10 ] Текст ошибки: <p>Не найден View <b>C:\xampp\htdocs\framework.loc/app/views/admin\User/index.php</b></p>. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 56
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 13:45:01 ] Текст ошибки: Use of undefined constant test - assumed 'test' | Файл: C:\xampp\htdocs\framework.loc\app\views\admin\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:00:09 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:01:02 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:01:17 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:01:29 ] Текст ошибки: Контролер <b>app\controllers\PostController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:04:14 ] Текст ошибки: Undefined index: post | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:31:49 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:32:26 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:32:35 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:32:38 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:33:19 ] Текст ошибки: Undefined index: post | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:33:23 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:27 14:33:32 ] Текст ошибки: Undefined index: post | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀

@@ -42,7 +42,7 @@ class View {
 			extract($data);
 		}
 		
-		$file_view = APP . "/views/{$this->route['controller']}/{$this->view}.php";
+		$file_view = APP . "/views/{$this->route['prefix']}{$this->route['controller']}/{$this->view}.php";
 		
 		ob_start();
 		
@@ -53,6 +53,7 @@ class View {
 		else
 		{
 			echo "<p>Не найден View <b>{$file_view}</b></p>";
+//			throw new \Exception("<p>Не найден View <b>$file_view</b></p>.", 404);
 		}
 		
 		$content = ob_get_clean();
@@ -68,6 +69,7 @@ class View {
 			else
 			{
 				echo "<p>Не найден layout <b>{$file_layout}</b></p>";
+//				throw new \Exception("<p>Не найден layout <b>$file_layout</b></p>.", 404);
 			}
 		}		
 		

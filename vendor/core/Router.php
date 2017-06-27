@@ -37,9 +37,18 @@ class Router {
 				{
 					$route['action'] = 'index';
 				}
+				//prefix for admin panel
+				if(!isset($route['prefix']))
+				{
+					$route['prefix'] = '';
+				}
+				else
+				{
+					$route['prefix'] .= '\\';
+				}
 				
 				$route['controller'] = self::upperCamelCase($route['controller']);
-				self::$route = $route;				
+				self::$route = $route;
 				return true;
 			}
 		}
@@ -49,13 +58,12 @@ class Router {
 	//перенаправляет URL по корректному маршуту
 	public static function dispatch($url)
 	{
-		
 		$url = self::removeQueryString($url);
-		
+
 		if(self::matchRoute($url))
 		{			
 			
-			$controller = 'app\controllers\\' . self::$route['controller'] . 'Controller';
+			 $controller = 'app\controllers\\' . self::$route['prefix'] . self::$route['controller'] . 'Controller';
 			
 			if(class_exists($controller))
 			{
@@ -110,7 +118,8 @@ class Router {
 			{
 				return '';
 			}
-		}	
+		}
+
 		return $url;
 	}
 	

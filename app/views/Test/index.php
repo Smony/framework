@@ -5,7 +5,7 @@
 			<?php foreach($posts as $post): ?>
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<a href="test/post?id=<?=$post['id']?>"><h3 class="panel-title"><?=$post['title']?></h3></a>
+				<a href="test/post/?id=<?=$post['id']?>"><h3 class="panel-title"><?=$post['title']?></h3></a>
 			</div>
 			<div class="panel-body">
 				<?=$post['text']?>
