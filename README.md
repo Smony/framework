@@ -81,6 +81,78 @@
 #### findOne ####
 `$var = R::findOne('tableName', 'id=2');`  //получаем одну запись  
 
+### ---CACHE--- ###
+
+Для работы с кэшем используется следующая конструкция:
+
+- записываем в кэш: 
+ ```php
+    $var = App::$app->cache->get('cacheName');           //проверяем кэш,  
+    if(!$var)                                            //и если такого кэша нет,  
+    {  
+        $var = $someData;                                //тогда мы записываем данные  
+        App::$app->cache->set('cacheName' $var, 7200);   //и помещаем их в кэш  
+    }
+```
+- удаление файла с кэшем:
+`App::$app->cache->delete('cacheName');`
+
+### ---AJAX--- ###
+
+  Пример:
+- пишем запрос
+
+```javascript
+<script>
+    $('#btn').click(function () {
+        $.ajax({
+            url: '/main/index',
+            type: 'post',
+            data: {'id' : 2},
+            success: function (res) {
+                $('body').html(res);
+            },
+            error: function () {
+                alert('ERROR');
+            }
+        })
+    })
+</script> 
+```
+
+- обрабатываем запрос в контроллере и возвращаем
+
+`if($this->isAjax())`   //проверяем ассинхронно ли к нам пришли данные
+`{`
+`$model = new Main;` //подключаем модель с которой работаем(если нужно)
+`$data = R::findOne('city', "WHERE id={$_POST['id']}");` //получаем данные
+`$this->loadView('nameView', ['city'=>$data]);` //с помощью метода `loadView()` передаем в вид 'nameView' данные, формируем их в нужном нам стиле, и возвращаем. Если возвращаемых данных не много, то можно просто их вернуть так: `echo $data`
+`die;`
+`}`
+
+### ---META--- ###
+
+`<?php \vendor\core\base\View::getMeta() ?>` //добавляем строку для вызова meta в шаблон  
+
+`View::setMeta('title', 'description', 'keywords');` //задем meta в контроллере  
+
+
+### ---MENU--- ###
+
+Меню выводится из таблицы БД. Таблица строится таким образом: id,title - название пункта меню, parent - id родительског опункта(если пункт сам является родителем - то 0).
+
+`use vendor\widgets\menu\Menu;`                                     //подключаем класс
+Вызываем меню в нужном месте и задаем параметры:
+
+
+`new \vendor\widgets\menu\Menu([`
+    `'tpl' => ROOT . '/vendor/widgets/menu/menu_tpl/menu.php',`     //указываем путь к шаблону меню
+    `'container' => 'ul',`                                          //устанавливаем тег-обертку
+    `'class' => 'default',`                                         //указываем класс
+    `'table' => 'categories',`                                      //указываем таблицу БД из которой построим меню
+    `'cache' => 3600,`                                              //время кеширования
+    `'cacheKey' => 'ul_menu',`                                      //ключ кеша
+    `]);`
 
 <h2><font>Лицензия</font></h2>
 <p><font><font class="">Структура framework является открытым кодом программное обеспечение , </font><font class="">лицензированное под </font></font><a href="http://opensource.org/licenses/MIT"><font><font class="">лицензией MIT</font></font></a><font><font class=""> .</font></font></p>
