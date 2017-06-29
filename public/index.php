@@ -1,5 +1,7 @@
 <?php 
 
+	session_start();
+
 	use vendor\core\Router;
 	use vendor\core\App;
 

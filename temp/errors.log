@@ -812,3 +812,345 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:27 14:33:32 ] Текст ошибки: Undefined index: post | Файл: C:\xampp\htdocs\framework.loc\app\controllers\TestController.php | Строка: 32
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 07:59:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 10:24:34 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:54:37 ] Текст ошибки: Контролер <b>app\controllers\RegistrationController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:56:14 ] Текст ошибки: Контролер <b>app\controllers\RegistrationController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:58:32 ] Текст ошибки: Контролер <b>app\controllers\RegistrationController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:58:33 ] Текст ошибки: Контролер <b>app\controllers\RegistrationController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:59:27 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:59:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 13:59:42 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:06:11 ] Текст ошибки: Undefined variable: LT | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 48
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:50 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:52 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:53 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:53 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:54 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:54 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:54 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:55 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:55 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:56 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:56 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:07:56 ] Текст ошибки: Undefined variable: PHP_SELF | Файл: C:\xampp\htdocs\framework.loc\app\views\register\index.php | Строка: 51
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:15:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:15:44 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:23:25 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:34:28 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:34:28 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:02 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:02 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:33 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:33 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:56 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:35:56 ] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 30
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:37:28 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:37:28 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:11 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:11 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:13 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:13 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:15 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:15 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:16 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:16 ] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:38:53 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.users' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:40:10 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.users' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 14:40:37 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.users' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:18:23 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 37
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:31:05 ] Текст ошибки: Undefined variable: errors | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:32:29 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:32:41 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:32:51 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:33:09 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:33:59 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:48:54 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:14 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:15 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:16 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:17 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:17 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:18 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:23 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:58 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:49:59 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:00 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:00 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:01 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:01 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:02 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:02 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:02 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:50:41 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:19 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:25 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:26 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:27 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:27 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:28 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:28 ] Текст ошибки: Undefined variable: login | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:37 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:39 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:40 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:41 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:41 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:42 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:42 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:43 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:51:47 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:55:07 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:55:15 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:43 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:45 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:46 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:46 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:46 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:47 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:47 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:48 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:50 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:51 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:56:52 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:57:01 ] Текст ошибки: A session had already been started - ignoring session_start() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:57:02 ] Текст ошибки: A session had already been started - ignoring session_start() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 15:57:13 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:00:55 ] Текст ошибки: Метод <b>app\controllers\UserController::logoutAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:01:21 ] Текст ошибки: Undefined index: is_user | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:12 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:14 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:14 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:15 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:15 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:15 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:17 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:18 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:18 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:19 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:20 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:20 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:21 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:22 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:15:32 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:16:11 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:16:13 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:16:13 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:16:45 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:16:57 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:19 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:27 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:34 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:35 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:36 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:36 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:37 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:37 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:38 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:17:38 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:18:21 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:18:28 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:18:32 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:19:51 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:36 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:39 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:40 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:40 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:41 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:41 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:20:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:21 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:44 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:45 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:46 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:22:51 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:39 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:40 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:41 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:42 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:23:59 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:24:00 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:26:33 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:44:27 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:44:56 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:45:05 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 36
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:45:37 ] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause' | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:52:58 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:53:00 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:53:00 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:53:01 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:29 16:53:01 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
