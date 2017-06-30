@@ -1,38 +1,59 @@
 <div class="container">
     <div class="jumbotron">
+        <button><a href="/user/singin">Ввойти</a></button>
+        <h4>РЕЄСТРАЦІЯ</h4>
+        <code><?= $errors;?></code>
+        <form action="/user/singup" method="POST" enctype="multipart/form-data">
+            <div class="list-block">
+                <ul class="posts">
+                    <li class="swipeout">
+                        <div class="swipeout-content item-content">
+                            <div class="post_entry">
+                                <input type="text" name="nick" value="" maxlength=51
+                                       class="form_input required" placeholder="Псевдонім" required/>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="swipeout">
+                        <div class="swipeout-content item-content">
+                            <div class="post_entry">
+                                <input type="text" name="email" value="" autocomplete="off"
+                                       class="form_input required" placeholder="email" required/>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="swipeout">
+                        <div class="swipeout-content item-content">
+                            <div class="post_entry">
+                                <input type="password" id="password" name="password" value="" autocomplete="off"
+                                       maxlength="255" class="form_input required" placeholder="Пароль"
+                                       required/>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="swipeout">
+                        <div class="swipeout-content item-content">
+                            <div class="post_entry">
+                                <input type="password" name="rep_password" value="" autocomplete="off" maxlength="255"
+                                       class="form_input required" placeholder="Повторіть пароль" required/>
+                            </div>
+                        </div>
+                    </li>
 
-    <form action="/user/singup" method="POST">
 
-        <div class="form-group row">
-            <label for="example-text-input" class="col-2 col-form-label">Login</label>
-            <div class="col-10">
-                <input class="form-control" type="text" name="login" value="" id="example-text-input">
+
+                </ul>
+
+                <div class="clear"></div>
+                <div id="loadMore"><i class="fa fa-plus-circle" aria-hidden="true"></i></div>
+                <div id="showLess" class="close_icon"><i class="fa fa-times-circle" aria-hidden="true"></i></div>
             </div>
-        </div>
-        <div class="form-group row">
-            <label for="example-email-input" class="col-2 col-form-label">Email</label>
-            <div class="col-10">
-                <input class="form-control" type="email" name="email" value="" id="example-email-input">
-            </div>
-        </div>
-        <div class="form-group row">
-            <label for="example-password-input" class="col-2 col-form-label">Password</label>
-            <div class="col-10">
-                <input class="form-control" type="password" name="password" value="" id="example-password-input">
-            </div>
-        </div>
-        <div class="form-group row">
-            <label for="example-password-input" class="col-2 col-form-label">Re Password</label>
-            <div class="col-10">
-                <input class="form-control" type="password" name="repassword" value="" id="example-password-input">
-            </div>
-        </div>
-        <div class="form-group row">
-            <label for="example-password-input" class="col-2 col-form-label">Password</label>
-            <div class="col-10">
-                <input class="form-control alert-success" name="do_singup" type="submit" value="register" id="example-password-input">
-            </div>
-        </div>
-    </form>
+
+            <input type="submit" name="do_singup" class="form_submit" id="submit" value="Надіслати"/>
+        </form>
+
+
+
+
     </div>
 </div>

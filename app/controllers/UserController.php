@@ -20,7 +20,8 @@ class UserController extends AppController
         }
         else
         {
-            $data = "не авторизован";
+            header("Location: /user/singin");
+            die();
         }
 
         $this->set(compact('data'));
@@ -32,23 +33,15 @@ class UserController extends AppController
         if(isset($data['do_singin']))
         {
             $model = new User();
-
-            $user = R::findOne($model->table, 'login = ?', array($data['login']));
-
-            #dd($user);
-
+            R::fancyDebug(TRUE);
+            $user = R::findOne($model->table, 'email = ?', array($data['email']));
             if($user)
             {
                 if($data['password'] == $user->password)
                 {
-                    dd('Вы успешно Ввошли');
-
                     $_SESSION['is_user'] = $user;
-
-                    dd( $_SESSION['is_user']->email);
-                    dd( $user);
-                    #header("Location: /user/index");
-                    #die();
+                    header("Location: /user/index");
+                    die();
                 }
                 else
                 {
@@ -59,7 +52,6 @@ class UserController extends AppController
             {
                 dd('Польлзователь не найден');
             }
-
         }
 
         View::setMeta('Вхід для членів клубу, Вірші, поезія. Клуб поезії',
@@ -70,30 +62,59 @@ class UserController extends AppController
 
     public function singupAction()
     {
+        $model = new User();
         $data = $_POST;
         if(isset($data['do_singup']))
         {
-            $model = new User();
 
-            $user = R::dispense($model->table);
-            $user->login = $data['login'];
-            $user->email = $data['email'];
-            $user->password = $data['password'];
-            $user->repassword = $data['repassword'];
-            R::store($user);
-            header("Location: /user/index");
-            die();
+            $errors = '';
+            if(trim($data['nick']) == '')
+            {
+                $errors = 'Будь ласка, заповніть поле \'Псевдонім\'';
+            }
+            if(trim($data['email']) == '')
+            {
+                $errors = 'Будь ласка, вкажіть Ваш email';
+            }
+            if($data['password'] == '')
+            {
+                $errors = 'Будь ласка, заповніть поле \'Пароль\'';
+            }
+            if($data['rep_password'] != $data['password'])
+            {
+                $errors = 'Будь ласка, повторіть Ваш пароль';
+            }
+
+            if(R::count($model->table, 'email = ?', array($data['email'])) > 0)
+            {
+                $errors = 'Користувач з таким email\'ом вже є';
+            }
+            if(empty($errors))
+            {
+                $user = R::dispense($model->table);
+
+                $user->nick = $data['nick'];
+                $user->email = $data['email'];
+                $user->password = password_hash($data['password'], PASSWORD_DEFAULT);
+
+                R::store($user);
+                header("Location: /user");
+                die();
+            }
+            else
+            {
+//                dd($errors);
+            }
         }
 
         View::setMeta('Регистрация','','');
+        $this->set(compact('errors'));
     }
 
     public function logoutAction()
     {
         $this->layout = false;
         unset($_SESSION['is_user']);
-        #dd($this->route);
-
         header("Location: /user");
         die();
     }

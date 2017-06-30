@@ -1,5 +1,6 @@
 <div class="container">
 	<div class="row">
+
 		<button><a href="user/singin">Вход</a></button>
 		<button><a href="user/singup">Регистрация</a></button>
 		<?php if(!empty($posts)): ?>

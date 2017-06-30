@@ -51,7 +51,22 @@
 				}
 			});
 
-		});	
+		});
+
+		$('#send').click(function(){
+			$.ajax({
+				url: '/main/test',
+				type: 'post',
+				data: 'id = 2',
+				success: function(res){
+					$('#ajaxme').html(res);
+				},
+				error: function(){
+					alert('Error!!');
+				}
+			});
+
+		});
 	</script>
   </body>
 </html>

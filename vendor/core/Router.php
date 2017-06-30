@@ -5,7 +5,7 @@ namespace vendor\core;
 class Router {
 	
 	public function __construct () {
-		
+
 	}
 
 	protected static $routes = [];

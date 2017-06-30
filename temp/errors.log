@@ -1154,3 +1154,129 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:29 16:53:01 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:01:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:21:28 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:29:59 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:30:29 ] Текст ошибки: A session had already been started - ignoring session_start() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:30:43 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:36:54 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 19
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:44:00 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 19
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:51:49 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:51:56 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:52:12 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:52:26 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:52:37 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\Test\index.php | Строка: 6
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 08:56:14 ] Текст ошибки: Undefined variable: LT | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 39
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:05:31 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 47
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:06:35 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 47
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:06:37 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 47
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:16:12 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 47
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:16:13 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 47
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:17:16 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:27:07 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:27:34 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:29:17 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:29:21 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:30:26 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:30:29 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:30:48 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:31:20 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:33:09 ] Текст ошибки: Метод <b>app\controllers\UserController::userAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:33:29 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:33:32 ] Текст ошибки: Undefined index: email | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singin.php | Строка: 9
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:34:37 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:34:43 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:38:06 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:40:32 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:41:47 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:42:54 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:43:55 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:45:38 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:46:29 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:48:11 ] Текст ошибки: Invalid type: old_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:48:41 ] Текст ошибки: Invalid type: old_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:49:16 ] Текст ошибки: Invalid type: old_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:49:18 ] Текст ошибки: Invalid type: old_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:49:21 ] Текст ошибки: Invalid type: old_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:52:00 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:53:11 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:53:19 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:53:46 ] Текст ошибки: Invalid type: new_users | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 12675
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 09:57:58 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.users' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:19:57 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:11 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:13 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:14 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:16 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:23 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:33 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:20:35 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:13 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:25 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:27 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:39 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:50 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:06:30 10:23:58 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
