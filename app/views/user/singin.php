@@ -1,6 +1,9 @@
 <div class="container">
     <div class="jumbotron">
         <button><a href="/user/singup/">Регистрация</a></button>
+        <?php if(!empty($errors)): ?>
+            <?php echo $errors; ?>
+        <?php endif; ?>
         <form action="/user/singin" method="POST">
 
             <div class="form-group row">

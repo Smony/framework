@@ -52,7 +52,7 @@ class MainController extends AppController {
 
 			die();
 		}
-//		echo 222;
+		echo 222;
 	}
 
 }

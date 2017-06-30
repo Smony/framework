@@ -29,15 +29,15 @@ class UserController extends AppController
 
     public function singinAction()
     {
+        $model = new User();
         $data = $_POST;
         if(isset($data['do_singin']))
         {
-            $model = new User();
-            R::fancyDebug(TRUE);
+            $errors = '';
             $user = R::findOne($model->table, 'email = ?', array($data['email']));
             if($user)
             {
-                if($data['password'] == $user->password)
+                if(password_verify($data['password'], $user->password))
                 {
                     $_SESSION['is_user'] = $user;
                     header("Location: /user/index");
@@ -45,12 +45,12 @@ class UserController extends AppController
                 }
                 else
                 {
-                    dd('Введите правельный пароль');
+                    $errors = 'Введите правельный пароль';
                 }
             }
             else
             {
-                dd('Польлзователь не найден');
+                $errors = 'Польлзователь не найден';
             }
         }
 
@@ -58,6 +58,7 @@ class UserController extends AppController
             'вірші, поезія, клуб поезії, вірші про кохання, листівки і вірші, молоді поети, розмістити вірш, вірші, поезія, українські поети, власна творчість, творчість, бібліотека поезії, чат поетів, TOP поетів, TOP поетів, Євген Юхниця, клуб поезії Євген Юхниця',
             'Вірші Поезія - клуб Поезії. Вірші. Вірші про кохання. Вірші всім.');
 
+        $this->set(compact('errors'));
     }
 
     public function singupAction()
@@ -66,7 +67,6 @@ class UserController extends AppController
         $data = $_POST;
         if(isset($data['do_singup']))
         {
-
             $errors = '';
             if(trim($data['nick']) == '')
             {
@@ -84,7 +84,6 @@ class UserController extends AppController
             {
                 $errors = 'Будь ласка, повторіть Ваш пароль';
             }
-
             if(R::count($model->table, 'email = ?', array($data['email'])) > 0)
             {
                 $errors = 'Користувач з таким email\'ом вже є';
@@ -103,12 +102,14 @@ class UserController extends AppController
             }
             else
             {
-//                dd($errors);
+                //dd($errors);
             }
         }
 
         View::setMeta('Регистрация','','');
-        $this->set(compact('errors'));
+
+            $this->set(compact('errors'));
+
     }
 
     public function logoutAction()
@@ -117,6 +118,6 @@ class UserController extends AppController
         unset($_SESSION['is_user']);
         header("Location: /user");
         die();
-    }
 
+    }
 }

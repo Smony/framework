@@ -64,6 +64,12 @@ class View {
 		
 			if(is_file($file_layout))
 			{
+				$content = $this->getScript($content);
+				$scripts = [];
+				if (!empty($this->scripts[0]))
+				{
+					$scripts = $this->scripts[0];
+				}
 				require $file_layout;
 			}
 			else
@@ -74,7 +80,18 @@ class View {
 		}		
 		
 	}
-	
+
+	protected function getScript($content)
+	{
+		$pattern = "#<script.*?>.*?</script>#si";
+		preg_match_all($pattern, $content, $this->scripts);
+		if (!empty($this->scripts))
+		{
+			$content = preg_replace($pattern, '', $content);
+		}
+		return $content;
+	}
+
 	public static function getMeta()
 	{
 		echo '<title>' . self::$meta['title'] . '</title>
