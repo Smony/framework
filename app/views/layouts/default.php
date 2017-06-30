@@ -37,24 +37,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bootstrap/js/bootstrap.min.js"></script>
     <script src="/js/javascript.js"></script>
-	<script>
-		$('#send').click(function(){
-			$.ajax({
-				url: '/main/test',
-				type: 'post',
-				data: 'id = 2',
-				success: function(res){
-					$('#ajaxme').html(res);
-				},
-				error: function(){
-					alert('Error!!');
-				}
-			});
-
-		});
-
-	</script>
-		<?php foreach ($scripts as $script){echo $script;} ?>
+	<?php foreach ($scripts as $script){echo $script;} ?>
   </body>
 </html>
 
