@@ -3,9 +3,12 @@
 	use vendor\core\Router;
 	use vendor\core\App;
 
+	require '../vendor/libs/function.php';
+
 	 $url = rtrim($_SERVER['QUERY_STRING'], '/');
 
 	 define('DEBUG', 0);
+	 define('BASE_URL', baseURL());
 	 define('WWW', __DIR__);
 	 define('CORE', dirname(__DIR__) . '/vendor/core');
 	 define('ROOT', dirname(__DIR__));
@@ -14,8 +17,6 @@
 	 define('CACHE', dirname(__DIR__) .'/temp/cache');
 	 define('LAYOUT', 'default');
 
-	require '../vendor/libs/function.php';
-	
 	//controllers
 	spl_autoload_register(function ($class) {
 		$file = ROOT . '/' . str_replace('\\', '/', $class) . '.php';
