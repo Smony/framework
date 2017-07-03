@@ -1392,3 +1392,205 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:06:30 13:15:25 ] Текст ошибки: Undefined variable: scripts | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 58
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 08:58:24 ] Текст ошибки: Undefined variable: public | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 84
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 09:14:08 ] Текст ошибки: Undefined variable: LT | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 83
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:04:44 ] Текст ошибки: mktime(): You should be using the time() function instead | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:04:56 ] Текст ошибки: mktime(): You should be using the time() function instead | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:09:38 ] Текст ошибки: mktime(): You should be using the time() function instead | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:16:52 ] Текст ошибки: date() expects at least 1 parameter, 0 given | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 68
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:22:30 ] Текст ошибки: mktime(): You should be using the time() function instead | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 68
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:35:44 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:55:13 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:55:48 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:56:32 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:56:36 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:57:54 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:12 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:15 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:19 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:21 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:23 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:25 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 10:58:28 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:01:22 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:02:01 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:02:06 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:02:06 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:02:17 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:09:56 ] Текст ошибки: imagejpeg(/upload/photos/new_cb13de2e50ac695aad8fbfe59e1ba869.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 141
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:11:55 ] Текст ошибки: imagejpeg(upload/photos/new_c4819d06b0ca810d38506453cfaae9d8.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 141
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:13:20 ] Текст ошибки: imagejpeg(upload/photos/new_9188905e74c28e489b44e954ec0b9bca.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 142
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:14:25 ] Текст ошибки: imagejpeg(upload/photos/new_b59442085644532ef03417a3e5a76437.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 142
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:14:49 ] Текст ошибки: imagejpeg(C:\xampp\htdocs\framework.locupload/photos/new_8fdd149fcaa7058caccc9c4ad5b0d89a.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 142
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:19:12 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:19:44 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:19:52 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:20:10 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:20:25 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:22:24 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:22:32 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:22:35 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:22:57 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:23:54 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:23:59 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:24:22 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 154
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:24:59 ] Текст ошибки: Контролер <b>app\controllers\UseController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:45:35 ] Текст ошибки: Undefined index: id | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 98
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:46:36 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 152
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:47:36 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 152
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:47:44 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 152
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:49:00 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 152
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:49:17 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 152
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:53:20 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:55:26 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:55:56 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:56:03 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:57:38 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:59:27 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 11:59:35 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:42:40 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:43:01 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:46:22 ] Текст ошибки: Undefined variable: data | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:46:43 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 108
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:46:47 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 108
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:47:11 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 109
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:50:34 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:51:28 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:51:59 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:52:29 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:53:08 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:53:31 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:54:09 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:54:14 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:54:23 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:54:48 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:54:51 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 149
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 12:55:48 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 151
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:03:33 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:04:02 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:04:15 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:04:34 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:04:48 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:05:08 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:05:26 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 95
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:05:29 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 95
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:05:53 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:06:12 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:06:20 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:07:48 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 110
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:08:30 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:09:22 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:10:57 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:11:37 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:11:42 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:11:51 ] Текст ошибки: Undefined index: send_comments | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 112
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:11:54 ] Текст ошибки: Undefined index: send_comments | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 112
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:12:06 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:13:28 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:13:42 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:13:45 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:14:11 ] Текст ошибки: Undefined index: send_news | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 111
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:18:12 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:19:25 ] Текст ошибки: Undefined index: send_club | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 107
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 13:19:53 ] Текст ошибки: Undefined index: send_comments | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 109
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀

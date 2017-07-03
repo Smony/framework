@@ -90,11 +90,44 @@ class UserController extends AppController
             }
             if(empty($errors))
             {
+                $new_name = getImageUpload();
                 $user = R::dispense($model->table);
 
                 $user->nick = $data['nick'];
                 $user->email = $data['email'];
                 $user->password = password_hash($data['password'], PASSWORD_DEFAULT);
+                $user->realname = $data['realname'];
+                $user->phone = $data['phone'];
+                $user->city = $data['city'];
+                $user->birthdate = $data['b_date'];
+                $user->public = $data['public'];
+                $user->aboutme = $data['aboutme'];
+                $user->userip = $_SERVER['REMOTE_ADDR'];
+
+                if (isset($data['send_club']))
+                {
+                    $user->send_club = 1;
+                }
+
+                if (isset($data['send_news']))
+                {
+                    $user->send_news = 1;
+                }
+
+                if (isset($data['send_comments']))
+                {
+                    $user->send_comments = 1;
+                }
+
+                if (isset($data['send_email']))
+                {
+                    $user->send_email = 1;
+                }
+
+                $user->sez = $data['sez'];
+                $user->datareg = date('Ymd');
+                $user->photo = $new_name;
+                $user->ischat = 1;
 
                 R::store($user);
                 header("Location: /user");
