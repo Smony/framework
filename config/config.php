@@ -6,7 +6,7 @@ $config = [
 		'test' => 'vendor\libs\Test',
 	],
 	'settings' => [
-	
+		'tyt' => 'tyt2',
 	],
 ];
 

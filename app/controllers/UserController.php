@@ -63,27 +63,15 @@ class UserController extends AppController
 
     public function singupAction()
     {
+
+//        $array = APP::$app->getComponents();
+
         $model = new User();
+        R::fancyDebug(TRUE);
         $data = $_POST;
         if(isset($data['do_singup']))
         {
             $errors = '';
-            if(trim($data['nick']) == '')
-            {
-                $errors = 'Будь ласка, заповніть поле \'Псевдонім\'';
-            }
-            if(trim($data['email']) == '')
-            {
-                $errors = 'Будь ласка, вкажіть Ваш email';
-            }
-            if($data['password'] == '')
-            {
-                $errors = 'Будь ласка, заповніть поле \'Пароль\'';
-            }
-            if($data['rep_password'] != $data['password'])
-            {
-                $errors = 'Будь ласка, повторіть Ваш пароль';
-            }
             if(R::count($model->table, 'email = ?', array($data['email'])) > 0)
             {
                 $errors = 'Користувач з таким email\'ом вже є';
@@ -138,11 +126,8 @@ class UserController extends AppController
                 //dd($errors);
             }
         }
-
-        View::setMeta('Регистрация','','');
-
-            $this->set(compact('errors'));
-
+        View::setMeta('Сторінка реєстрації, Вірші, поезія. Клуб поезії','вірші, поезія, клуб поезії, вірші про кохання, листівки і вірші, молоді поети, розмістити вірш, вірші, поезія, українські поети, власна творчість, творчість, бібліотека поезії, чат поетів, TOP поетів, TOP поетів, Євген Юхниця, клуб поезії Євген Юхниця','Вірші Поезія - клуб Поезії. Вірші. Вірші про кохання. Вірші всім.');
+        $this->set(compact('errors', 'data'));
     }
 
     public function logoutAction()
@@ -151,6 +136,5 @@ class UserController extends AppController
         unset($_SESSION['is_user']);
         header("Location: /user");
         die();
-
     }
 }

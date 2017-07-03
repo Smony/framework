@@ -1,5 +1,12 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.js"></script>
-
+<?php if(!empty($data))
+{
+    echo $data['email'];
+}
+else
+{
+    echo "empty data";
+}
+?>
 <div class="container">
     <div class="jumbotron">
         <button><a href="/user/singin">Ввойти</a></button>
@@ -7,7 +14,7 @@
         <?php if(!empty($errors)): ?>
             <?php echo $errors; ?>
         <?php endif; ?>
-        <form action="/user/singup" method="POST" enctype="multipart/form-data">
+        <form action="/user/singup" method="POST" id="register" enctype="multipart/form-data">
             <div class="list-block">
                 <ul class="posts">
                     <li class="swipeout">
@@ -55,7 +62,7 @@
                         <div class="swipeout-content item-content">
                             <div class="post_entry">
                                 <input type="text" name="phone" id="phone" value="" autocomplete="off"
-                                       class="form_input required" placeholder="Телефон"/>
+                                       class="form_input required" placeholder="(000) 000-00-00"/>
                             </div>
                         </div>
                     </li>
@@ -63,7 +70,7 @@
                         <div class="swipeout-content item-content">
                             <div class="post_entry">
                                 <input type="text" name="b_date" id="b_date" value=""
-                                       class="form_input required" placeholder="Дата народження"/>
+                                       class="form_input required" placeholder="дд-мм-рррр"/>
                             </div>
                         </div>
                     </li>
@@ -212,7 +219,7 @@
                         <div class="swipeout-content item-content">
                             <div class="post_entry" style="margin-top: 15px;">
                                 <label class="label-checkbox item-content" style="width: 93%;">
-                                    <input type="checkbox" name="agree" value="1" />
+                                    <input type="checkbox" name="agree" value='' />
                                     <div class="item-media">
                                         <i class="icon icon-form-checkbox"></i>
                                     </div>
@@ -232,3 +239,100 @@
         </form>
     </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.js"></script>
+<script>
+    $().ready(function() {
+        $.validator.methods.email = function( value, element ) {
+            //	console.log(element);
+            return this.optional( element ) || /^[0-9a-z-\.]+\@[0-9a-z-]{2,}\.[a-z.]{2,}$/i.test( value );
+        }
+
+        $("#register").validate({
+            rules: {
+                nick: {
+                    required: true,
+                    minlength: 3,
+                    maxlength: 50
+                },
+                email: {
+                    required: true,
+                    email: true,
+                },
+                password: {
+                    required: true,
+                    minlength: 6
+                },
+                rep_password: {
+                    required: true,
+                    minlength: 6,
+                    equalTo: "#password"
+                },
+                realname: {
+                    required: true,
+                    minlength: 10
+                },
+                phone: {
+                    required: true,
+                    minlength: 15
+
+                },
+                b_date: {
+                    required: true,
+                    minlength: 10
+                },
+                city: {
+                    required: true
+                },
+                agree: {
+                    required: true
+                }
+            },
+            messages: {
+                nick: {
+                    required: "Будь ласка, заповніть поле 'Псевдонім'",
+                    minlength: "Мінімальний розмір - 3 символи",
+                    maxlength: "Максимальний розмір - 50 символів"
+                },
+                email: {
+                    required: "Будь ласка, вкажіть Ваш email",
+                    email: "Невірний формат email"
+                },
+                password: {
+                    required: "Будь ласка, заповніть поле 'Пароль'",
+                    minlength: "Мінімальний розмір - 6 символи"
+                },
+                rep_password: {
+                    required: "Будь ласка, повторіть Ваш пароль",
+                    minlength: "Мінімальний розмір - 6 символи",
+                    equalTo: "Введені паролі не співпадають"
+                },
+                realname: {
+                    required: "Будь ласка, вкажіть Ваше повне ім'я",
+                    minlength: "Мінімальний розмір - 10 символів"
+                },
+                phone: {
+                    required: "Будь ласка, вкажіть Ваш телефон",
+                    minlength: "Мінімальний розмір - 10 символів"
+                },
+                b_date: {
+                    required: "Будь ласка, вкажіть дату Вашого народження",
+                    minlength: "Ви невірно ввели дату народження",
+                },
+                city: {
+                    required: "Будь ласка, вкажіть місце Вашого проживання"
+                },
+                agree: {
+                    required: "Ви маєте погодитися із правила публікації та користування сайтом"
+                }
+            }
+        });
+    });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#b_date').mask('00-00-0000');
+        $('#phone').mask('(000) 000-00-00');
+    });
+</script>

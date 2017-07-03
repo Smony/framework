@@ -1594,3 +1594,161 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:07:03 13:19:53 ] Текст ошибки: Undefined index: send_comments | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 109
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:12:16 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:32:13 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:32:19 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:35:41 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:37:12 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:42:03 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:42:04 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:42:09 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:42:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 14:42:20 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:03:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:07:16 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:09:12 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:09:23 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:20:20 ] Текст ошибки: Undefined variable: uiid | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 249
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:20:21 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:23:01 ] Текст ошибки: Undefined variable: uiid | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 249
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:23:04 ] Текст ошибки: Undefined variable: uiid | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 249
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:23:04 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:25:05 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 238
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:25:09 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 238
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:25:09 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:25:11 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 238
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:25:14 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:26:03 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:26:05 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:26:07 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 17
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:26:07 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:27:10 ] Текст ошибки: Undefined variable: uiid | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 248
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:27:11 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:30:58 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 247
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:30:58 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:31:29 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 247
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:31:30 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:31:35 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 247
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:31:48 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:31:53 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 247
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:35:04 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:35:21 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:36:01 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:37:19 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:37:22 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:38:56 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:39:07 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:39:13 ] Текст ошибки: Undefined variable: users | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 2
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:51:17 ] Текст ошибки: Use of undefined constant nick - assumed 'nick' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 1
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:57:40 ] Текст ошибки: syntax error, unexpected '}' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 62
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:57:40 ] Текст ошибки: syntax error, unexpected '}' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 62
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:58:04 ] Текст ошибки: Undefined variable: new_name | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 23
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 15:59:11 ] Текст ошибки: Undefined variable: birthdate | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 24
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:02:05 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:02:18 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:02:58 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:03:39 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:03:46 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:04:03 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:04:57 ] Текст ошибки: Undefined variable: headers | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:05:39 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:20:00 ] Текст ошибки: Undefined variable: p | Файл: C:\xampp\htdocs\framework.loc\app\views\user\singup.php | Строка: 250
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:20:00 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:30:00 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:35:50 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:35:50 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:36:13 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:36:13 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:36:31 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:36:31 ] Текст ошибки: Call to undefined method vendor\core\base\View::getScript() | Файл: C:\xampp\htdocs\framework.loc\vendor\core\base\View.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:48:28 ] Текст ошибки: Call to undefined method app\controllers\UserController::getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 66
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:48:28 ] Текст ошибки: Call to undefined method app\controllers\UserController::getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 66
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:51:46 ] Текст ошибки: Undefined variable: config | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:51:56 ] Текст ошибки: Undefined variable: config | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:53:04 ] Текст ошибки: Call to undefined function app\controllers\getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:53:04 ] Текст ошибки: Call to undefined function app\controllers\getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:53:59 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 67
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:55:21 ] Текст ошибки: Trying to get property of non-object | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:56:03 ] Текст ошибки: syntax error, unexpected ';' | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:56:03 ] Текст ошибки: syntax error, unexpected ';' | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:56:32 ] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:03 16:56:32 ] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
