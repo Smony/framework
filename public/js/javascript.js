@@ -143,8 +143,9 @@ Egg.prototype.addHook = Egg.prototype.AddHook;
 
 var egg = new Egg();
 egg
-	.addCode("d,e,v,s,i,t,e", function() {
+	.addCode("s,m,o,n,y", function() {
 		alert("I'm SMONY");
+
 	})
 	.addHook(function(){
 		console.log("Hook called for: " + this.activeEgg.keys);

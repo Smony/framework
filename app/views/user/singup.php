@@ -1,12 +1,3 @@
-<?php if(!empty($data))
-{
-    echo $data['email'];
-}
-else
-{
-    echo "empty data";
-}
-?>
 <div class="container">
     <div class="jumbotron">
         <button><a href="/user/singin">Ввойти</a></button>

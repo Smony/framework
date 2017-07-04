@@ -1,4 +1,4 @@
 
 <?php if ($user->id):?>
-    <a href="logout">Выход</a>
+    <a href="<?= BASE_URL;?>/logout">Выход</a>
 <?php endif;?>

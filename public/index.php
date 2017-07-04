@@ -38,7 +38,7 @@
 	Router::add('^admin$',['controller'=>'User', 'action'=>'index', 'prefix' => 'admin']);
 	Router::add('^admin/?(?<controller>[a-z-]+)/?(?<action>[a-z-]+)?$', ['prefix' => 'admin']);
 	//site
-	Router::add('^$', ['controller' => 'Test', 'action' => 'index']);
+	Router::add('^$', ['controller' => 'Mobile', 'action' => 'index']);
 	Router::add('^(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');	
 	
 	Router::dispatch($url);

@@ -1,0 +1,109 @@
+/*==============================================
+[Turquoise color stylesheet turquoise.css]
+
+Author:	SINDEVO.COM - Smart Internet Development
+Template:	Mobix - Mobile Web APP Template
+================================================*/
+
+/*===============================================*/
+/* MAIN COLOR */
+/*===============================================*/	
+a, blockquote span {
+color: #1a715e;
+}
+a.button_full, a.button_small, .call_button a{
+background-color:#1a715e; 
+}
+.button {
+border: 1px solid #1a715e;
+color: #1a715e;
+}
+.button.active {
+background: #1a715e;
+}
+#pages_maincontent h3{
+color:#1a715e;
+}
+.photo-categories a.active{
+background-color:#1a715e;
+}
+.post_date{
+color:#1a715e;
+}
+.list-block .swipeout-actions-left a,
+.list-block .swipeout-actions-right a {
+background: #1a715e;
+}
+.contactform input.form_submit, .loginform input.form_submit, .commentform input.form_submit{ 
+background-color:#1a715e;
+}
+ul.responsive_table li:first-child{
+background-color:#1a715e;
+color:#FFFFFF;
+}
+li.table_row{
+background-color:#e6e6e6;
+}
+/*===============================================*/
+/* HOME BG AND PAGES HEADER BG */
+/*===============================================*/	
+.homepage{
+background: url(../../images/colors/turquoise/bg.jpg) no-repeat center center;
+background-attachment:fixed;
+-webkit-background-size: 100%; 
+-moz-background-size: 100%;
+-o-background-size: 100%;
+background-size: 100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover; 
+background-size: cover;
+}
+.navbarpages{
+background:url(../../images/colors/turquoise/header.jpg) no-repeat center center;
+}
+/*===============================================*/
+/* MAIN NAV LINKS */
+/*===============================================*/	
+.main-nav ul li{
+background: #054437;
+border-bottom:1px #106d59 solid;
+}
+.main-nav ul li a{
+color:#24d7b1;
+}
+/*===============================================*/
+/* POPUPS AND TOOLBAR */
+/*===============================================*/	
+.popup, .page_content_menu{
+background: #0a5545;
+}
+.popup-login, .popup-signup, .popup-forgot{
+background-color:#263239;
+}
+.toolbar:before {
+  background-color: #082722;
+}
+.navbar,
+.toolbar,
+.subnavbar {
+  background: #082722;
+}
+/*===============================================*/
+/* LEFT AND RIGHT SLIDE PANEL */
+/*===============================================*/	
+.panel {
+background:#088b6f;
+}
+.user-nav ul li, ul.popular_posts li{
+border-bottom:1px #11a787 solid;
+}
+/* MENU OPENER ICON */
+ul.toolbar_icons li.menuicon{
+background-color:#088b6f;
+}
+
+/* PANEL CLOSE BUTTON */
+.close_popup_button a{
+background-color:#088b6f;
+}
