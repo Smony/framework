@@ -9,48 +9,62 @@ use R;
 
 class UserController extends AppController
 {
-
     // public $layout = 'main';
 
     public function indexAction()
     {
-        if(isset($_SESSION['is_user']))
+        $this->layout = 'user';
+        $model = new User();
+        if(isset($_SESSION['id_user']))
         {
-            $data = "Aвторизован";
+            $data = "Привет ,";
+            $userId = $_SESSION['id_user'];
+            $name = $_SESSION['nick_user'];
+            $user = R::load($model->table, $userId);
         }
         else
         {
             header("Location: /user/singin");
             die();
         }
-
-        $this->set(compact('data'));
+        View::setMeta($user->realname);
+        $this->set(compact('data', 'name', 'user'));
     }
 
     public function singinAction()
     {
         $model = new User();
         $data = $_POST;
-        if(isset($data['do_singin']))
+        if(isset($_SESSION['id_user']))
         {
-            $errors = '';
-            $user = R::findOne($model->table, 'email = ?', array($data['email']));
-            if($user)
+            header("Location: /user/index");
+            die();
+        }
+        else
+        {
+            if(isset($data['do_singin']))
             {
-                if(password_verify($data['password'], $user->password))
+                $errors = '';
+                $user = R::findOne($model->table, 'email = ?', array($data['email']));
+                if($user)
                 {
-                    $_SESSION['is_user'] = $user;
-                    header("Location: /user/index");
-                    die();
+                    if(password_verify($data['password'], $user->password))
+                    {
+                        $_SESSION['id_user'] = $user->id;
+                        $_SESSION['nick_user'] = $user->nick;
+
+                        header("Location: /user/index");
+                        die();
+                    }
+                    else
+                    {
+                        $errors = 'Введите правельный пароль';
+                    }
                 }
                 else
                 {
-                    $errors = 'Введите правельный пароль';
+                    $errors = 'Польлзователь не найден';
                 }
-            }
-            else
-            {
-                $errors = 'Польлзователь не найден';
             }
         }
 
@@ -63,11 +77,7 @@ class UserController extends AppController
 
     public function singupAction()
     {
-
-//        $array = APP::$app->getComponents();
-
         $model = new User();
-        R::fancyDebug(TRUE);
         $data = $_POST;
         if(isset($data['do_singup']))
         {
@@ -79,6 +89,7 @@ class UserController extends AppController
             if(empty($errors))
             {
                 $new_name = getImageUpload();
+                dd($new_name);
                 $user = R::dispense($model->table);
 
                 $user->nick = $data['nick'];
@@ -91,27 +102,22 @@ class UserController extends AppController
                 $user->public = $data['public'];
                 $user->aboutme = $data['aboutme'];
                 $user->userip = $_SERVER['REMOTE_ADDR'];
-
                 if (isset($data['send_club']))
                 {
                     $user->send_club = 1;
                 }
-
                 if (isset($data['send_news']))
                 {
                     $user->send_news = 1;
                 }
-
                 if (isset($data['send_comments']))
                 {
                     $user->send_comments = 1;
                 }
-
                 if (isset($data['send_email']))
                 {
                     $user->send_email = 1;
                 }
-
                 $user->sez = $data['sez'];
                 $user->datareg = date('Ymd');
                 $user->photo = $new_name;
@@ -121,10 +127,6 @@ class UserController extends AppController
                 header("Location: /user");
                 die();
             }
-            else
-            {
-                //dd($errors);
-            }
         }
         View::setMeta('Сторінка реєстрації, Вірші, поезія. Клуб поезії','вірші, поезія, клуб поезії, вірші про кохання, листівки і вірші, молоді поети, розмістити вірш, вірші, поезія, українські поети, власна творчість, творчість, бібліотека поезії, чат поетів, TOP поетів, TOP поетів, Євген Юхниця, клуб поезії Євген Юхниця','Вірші Поезія - клуб Поезії. Вірші. Вірші про кохання. Вірші всім.');
         $this->set(compact('errors', 'data'));
@@ -133,7 +135,8 @@ class UserController extends AppController
     public function logoutAction()
     {
         $this->layout = false;
-        unset($_SESSION['is_user']);
+        unset($_SESSION['id_user']);
+        unset($_SESSION['nick_user']);
         header("Location: /user");
         die();
     }

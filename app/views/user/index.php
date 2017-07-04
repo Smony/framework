@@ -1,3 +1,4 @@
-User::index
 
-    <h1><?=$data;?></h1>
+<?php if ($user->id):?>
+    <a href="logout">Выход</a>
+<?php endif;?>

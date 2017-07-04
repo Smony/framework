@@ -12,6 +12,15 @@
 		return $str;
 	}
 
+	function baseURL(){
+		return sprintf(
+			"%s://%s%s",
+			isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+			$_SERVER['SERVER_NAME'],
+			dirname($_SERVER['REQUEST_URI'])
+		);
+	}
+
 	function getImageUpload()
 	{
 		if(is_uploaded_file($_FILES['photo']['tmp_name']))

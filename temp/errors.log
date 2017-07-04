@@ -1752,3 +1752,309 @@
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 [2017:07:03 16:56:32 ] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 69
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 07:34:42 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:04:20 ] Текст ошибки: Call to undefined function app\controllers\getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 68
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:04:20 ] Текст ошибки: Call to undefined function app\controllers\getComponents() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 68
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:04:56 ] Текст ошибки: Undefined index: objects | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Registry.php | Строка: 32
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:14:24 ] Текст ошибки: Missing argument 2 for app\controllers\UserController::__construct(), called in C:\xampp\htdocs\framework.loc\vendor\core\Router.php on line 70 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 15
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:26:45 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:26:46 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:26:48 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:26:49 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:27:11 ] Текст ошибки: Undefined index: photo | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 28
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:29:38 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:29:38 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:29:48 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:29:48 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:29:59 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:34:42 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:34:54 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:34:54 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:35:09 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:35:16 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 12
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:36:14 ] Текст ошибки: Undefined variable: users | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:36:30 ] Текст ошибки: Illegal string offset 'nick' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:38:53 ] Текст ошибки: Undefined variable: value | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:38:55 ] Текст ошибки: Undefined variable: value | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:39:05 ] Текст ошибки: Undefined variable: value | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:43:52 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:43:54 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:44:03 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:44:16 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:44:45 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:44:45 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:45:06 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:45:06 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:49:16 ] Текст ошибки: A session had already been started - ignoring session_start() | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 16
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:50:18 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:51:29 ] Текст ошибки: Class 'APP' not found | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:51:29 ] Текст ошибки: Class 'APP' not found | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:51:53 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:51:58 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:53:45 ] Текст ошибки: Missing argument 1 for app\controllers\UserController::_setCurrentUser(), called in C:\xampp\htdocs\framework.loc\app\controllers\UserController.php on line 20 and defined | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 31
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:56:18 ] Текст ошибки: Call to undefined method vendor\core\base\View::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:56:18 ] Текст ошибки: Call to undefined method vendor\core\base\View::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:57:38 ] Текст ошибки: Call to undefined method vendor\core\base\View::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:57:38 ] Текст ошибки: Call to undefined method vendor\core\base\View::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:58:01 ] Текст ошибки: Call to undefined method vendor\core\Registry::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:58:01 ] Текст ошибки: Call to undefined method vendor\core\Registry::_getCurrentUser() | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 08:58:34 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 19
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:00:29 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:00:29 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:01:08 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:01:08 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:01:29 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:02:59 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:03:01 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:04:46 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:06:05 ] Текст ошибки: Undefined variable: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:06:16 ] Текст ошибки: Undefined variable: nick | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 7
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:08:15 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:09:03 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:09:03 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:09:10 ] Текст ошибки: Use of undefined constant sez - assumed 'sez' | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:09:16 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:10:31 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:11:08 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:11:52 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:11:53 ] Текст ошибки: Undefined index: nick | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:26 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:48 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:49 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:50 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:51 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:13:51 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:14:02 ] Текст ошибки: Object of class __PHP_Incomplete_Class could not be converted to string | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:17:13 ] Текст ошибки: Use of undefined constant email - assumed 'email' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:17:20 ] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:17:20 ] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:17:34 ] Текст ошибки: main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:42 ] Текст ошибки: app\controllers\UserController::indexAction(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;RedBeanPHP\OODBBean&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide a __autoload() function to load the class definition  | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:55 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:55 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:57 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:57 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:57 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:57 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:58 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:21:58 ] Текст ошибки: Cannot use object of type __PHP_Incomplete_Class as array | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:22:35 ] Текст ошибки: Undefined variable: user | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:25:48 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:26:39 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:26:52 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:26:54 ] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:27:13 ] Текст ошибки: Undefined variable: userId | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:27:25 ] Текст ошибки: syntax error, unexpected '?>' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:27:25 ] Текст ошибки: syntax error, unexpected '?>' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 5
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:28:57 ] Текст ошибки: Undefined index: nick_user | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 21
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:29:15 ] Текст ошибки: Undefined index: nick_user | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:29:17 ] Текст ошибки: Undefined index: nick_user | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 20
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:31:26 ] Текст ошибки: Метод <b>app\controllers\UserController::loguotAction</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 81
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:31:47 ] Текст ошибки: Контролер <b>app\controllers\LogoutController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:38:36 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:40:35 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:40:40 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:40:47 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:41:38 ] Текст ошибки: Use of undefined constant realname - assumed 'realname' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 3
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:41:43 ] Текст ошибки: Use of undefined constant realname - assumed 'realname' | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 3
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:52:38 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:52:45 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:52:51 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:52:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:58:01 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 09:58:42 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:01:51 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:02:08 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:02:47 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:03:06 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:03:21 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:06:54 ] Текст ошибки: Undefined variable: bean | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:06:57 ] Текст ошибки: Undefined variable: bean | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 4
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:09:57 ] Текст ошибки: imagejpeg(/upload/photos/new_mob_ee0e944a35fe7e542d4c03b05a5e6802.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:11:12 ] Текст ошибки: imagejpeg(/upload/photos/new_mob_500e75a036dc2d7d2fec5da1b71d36cc.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:12:19 ] Текст ошибки: imagejpeg(/upload/photos/new_mob_fea427597536f3e21482196d31927037.jpg): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\function.php | Строка: 59
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:19:31 ] Текст ошибки: preg_split(): Compilation failed: missing terminating ] for character class at offset 4 | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 25
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:19:56 ] Текст ошибки: preg_split(): Compilation failed: nothing to repeat at offset 0 | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 25
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:20:01 ] Текст ошибки: preg_split(): No ending delimiter '/' found | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 25
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:20:10 ] Текст ошибки: preg_split(): Unknown modifier ']' | Файл: C:\xampp\htdocs\framework.loc\app\controllers\UserController.php | Строка: 25
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:25:32 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:25:43 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:25:51 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:25:57 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:26:01 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:26:04 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:26:10 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:26:16 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:35:08 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:36:55 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:37:15 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:40:06 ] Текст ошибки: Array may only contain OODBBeans | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 7863
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:44:23 ] Текст ошибки: Array may only contain OODBBeans | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 7863
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:44:54 ] Текст ошибки: Array may only contain OODBBeans | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 7863
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:45:34 ] Текст ошибки: Array may only contain OODBBeans | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 7863
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:46:00 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role2' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:46:45 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role2' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:47:40 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role2' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:49:34 ] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.role2' doesn't exist | Файл: C:\xampp\htdocs\framework.loc\vendor\libs\rb.php | Строка: 720
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:53:34 ] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 3
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:53:40 ] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\framework.loc\app\views\user\index.php | Строка: 3
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 10:59:08 ] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 26
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:00:16 ] Текст ошибки: Undefined variable: name | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 28
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:01:00 ] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 50
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:01:00 ] Текст ошибки: syntax error, unexpected end of file | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 50
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:01:09 ] Текст ошибки: Undefined variable: name | Файл: C:\xampp\htdocs\framework.loc\app\views\layouts\default.php | Строка: 28
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:05:39 ] Текст ошибки: Контролер <b>app\controllers\LogoutController</b> не найден. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 87
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+[2017:07:04 11:52:22 ] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\framework.loc\vendor\core\Router.php | Строка: 94
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
