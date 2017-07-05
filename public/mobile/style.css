@@ -1375,6 +1375,10 @@ text-align:left;
 font-size:14px;
 color:#b16a51;
 font-weight:400;
+position: relative;
+left: 0;
+bottom: 13px;
+font-size: 13px;
 }
 .loginform input.form_input{
 padding:10px 3%; 

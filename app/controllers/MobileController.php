@@ -21,6 +21,8 @@ class MobileController extends AppController
             $userId = $_SESSION['id_user'];
             $name = $_SESSION['nick_user'];
             $user = R::load($users->table, $userId);
+            unset($_SESSION['error_us_pass']);
+            unset($_SESSION['error_us_name']);
         }
         else
         {
@@ -50,7 +52,7 @@ class MobileController extends AppController
                 $user = R::findOne($model->table, 'email = ?', array($data['email']));
                 if($user)
                 {
-                    if(password_verify($data['password'], $user->password))
+                    if($data['password'] == $user->password)
                     {
                         $_SESSION['id_user'] = $user->id;
                         $_SESSION['nick_user'] = $user->nick;
@@ -60,31 +62,22 @@ class MobileController extends AppController
                     }
                     else
                     {
-//                        $errors = 'Введите правельный пароль';
+                        $_SESSION['error_us_pass'] = 'Введите правельный пароль';
+                        header("Location: /");
+                        die();
 
-//                        <script>
-//                            alert('Введите правельный пароль');
-//                            history.back();
-//                        </script>
-                        echo "<script> alert('Введите правельный пароль');history.back();</script>";
-//                        header("Location: /");
-//                        die();
                     }
                 }
                 else
                 {
-//                    <script>
-//                        alert('Польлзователь не найден');
-//                        history.back();
-//                    </script>
-                    echo "<script>alert('Польлзователь не найден');history.back();</script>";
-//                    $errors = 'Польлзователь не найден';
-//                    header("Location: /");
-//                    die();
+                    $_SESSION['error_us_name'] = 'Пользователь не найден';
+                    header("Location: /");
+                    die();
                 }
             }
         }
-        $this->set(compact('errors'));
+//        $this->set(compact('errors'));
+        $this->loadView('index', compact('errors'));
     }
 
     public function logoutAction()
@@ -92,6 +85,8 @@ class MobileController extends AppController
         $this->layout = false;
         unset($_SESSION['id_user']);
         unset($_SESSION['nick_user']);
+        unset($_SESSION['error_us_pass']);
+        unset($_SESSION['error_us_name']);
         header("Location: /");
         die();
     }

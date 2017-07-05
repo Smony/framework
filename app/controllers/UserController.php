@@ -48,7 +48,8 @@ class UserController extends AppController
                 $user = R::findOne($model->table, 'email = ?', array($data['email']));
                 if($user)
                 {
-                    if(password_verify($data['password'], $user->password))
+//                    if(password_verify($data['password'], $user->password))
+                    if($data['password'] == $user->password)
                     {
                         $_SESSION['id_user'] = $user->id;
                         $_SESSION['nick_user'] = $user->nick;

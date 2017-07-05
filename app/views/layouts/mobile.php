@@ -6,7 +6,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="/mobile/images/apple-touch-icon.png" />
     <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="apple-touch-startup-image-640x1096.png">
 
     <?php vendor\core\base\View::getMeta();?>
@@ -21,18 +21,16 @@
 
 </head>
 <body id="mobile_wrap">
-
 <div class="statusbar-overlay"></div>
-
 <div class="panel-overlay"></div>
 <?php if ($user):?>
 <!-- LEFT -->
 <div class="panel panel-left panel-cover">
     <div class="user_login_info">
         <div class="user_thumb">
-            <?php if($user->photo): ?>
+            <?php if(!empty($user->photo)): ?>
                 <img src="/mobile/img/smony.jpg" alt="" title=""/>
-            <?php elseif(!$user->photo): ?>
+            <?php elseif(empty($user->photo)): ?>
                 <img src="/mobile/img/author_<?=$user['sez']?>.gif" alt="" title=""/>
             <?php endif; ?>
             <div class="user_details">

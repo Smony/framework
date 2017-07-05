@@ -9,6 +9,11 @@
                             <div class="swiper-slide">
                                 <img src="/mobile/img/logo.png" alt="" title="" style="margin-top:20%;width:200px;">
                                 <br />
+                                <?php if(isset($_SESSION['error_us_pass'])): ?>
+                                <a class="swiper_read_more"><?=$_SESSION['error_us_pass'];?></a>
+                                <?php elseif(isset($_SESSION['error_us_name'])): ?>
+                                    <a class="swiper_read_more"><?=$_SESSION['error_us_name'];?></a>
+                                <?php endif; ?>
                             </div>
                             <!-- TWO SWIPE-SLIDER -->
                             <div class="swiper-slide swiper-slide-two" style="background: #fff;">
@@ -78,8 +83,10 @@
 <div class="popup popup-login">
     <div class="content-block-login">
         <h4>ВХІД ДЛЯ ЧЛЕНІВ КЛУБУ</h4>
+
         <div class="form_logo"><img src="/mobile/img/small-logo.png" alt="" title="" /></div>
         <div class="loginform">
+
             <form id="singinform" method="post" action="/mobile/singin">
                 <input type="text" name="email" value="" class="form_input required" placeholder="e-mail"/>
                 <input type="password" name="password" value="" class="form_input required" placeholder="пароль"/>
