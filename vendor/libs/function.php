@@ -4,7 +4,7 @@
 		echo '<pre>' . print_r($arr, true) . '</pre>';
 	}
 
-	function formatstr($str)
+	function formatStr($str)
 	{
 		$str = trim($str);
 		$str = stripslashes($str);
@@ -34,8 +34,9 @@
 			}
 			else
 			{
-				echo "Возможная атака с участием загрузки файла: ";
-				echo "файл '". $_FILES['photo']['tmp_name'] . "'.";
+//				echo "Возможная атака с участием загрузки файла: ";
+//				echo "файл '". $_FILES['photo']['tmp_name'] . "'.";
+				throw new \Exception("Возможная атака с участием загрузки файла: '". $_FILES['photo']['tmp_name'] . "' ", 404);
 			}
 			if ($sz > 4485760)
 			{

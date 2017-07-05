@@ -91,7 +91,7 @@ class Router {
 		{
 		/*	http_response_code(404);
 			include('404.html');*/
-			throw new \Exception("Страница не найдена.", 404);
+//			throw new \Exception("Страница не найдена.", 404);
 		}
 	}
 	
